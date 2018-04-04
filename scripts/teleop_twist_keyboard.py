@@ -4,6 +4,7 @@ import rospy
 
 from std_msgs.msg import Header
 from geometry_msgs.msg import Twist, TwistStamped
+from hector_uav_msgs.srv import EnableMotors
 
 import sys, select, termios, tty
 
@@ -45,6 +46,35 @@ speedBindings={
 		'.':(1,.9),
 	      }
 
+def disableMotors():
+    SERVICE_ENABLE_MOTORS = 'enable_motors'
+    #print "Waiting for service", SERVICE_ENABLE_MOTORS
+    #rospy.wait_for_service(SERVICE_ENABLE_MOTORS)
+    try:
+        enable_motors = rospy.ServiceProxy(SERVICE_ENABLE_MOTORS, EnableMotors)
+        res = enable_motors(False)
+        if res:
+            print "Motors disabled!"
+        else:
+            print "Failed to disable motors..."
+    except rospy.ServiceException, e:
+        print "Disable service", SERVICE_ENABLE_MOTORS, "call failed: %s"%e
+
+def enableMotors():
+    SERVICE_ENABLE_MOTORS = 'enable_motors'
+    print "Waiting for service", SERVICE_ENABLE_MOTORS
+    rospy.wait_for_service(SERVICE_ENABLE_MOTORS)
+    try:
+        enable_motors = rospy.ServiceProxy(SERVICE_ENABLE_MOTORS, EnableMotors)
+        res = enable_motors(True)
+        if res:
+            print "Motors enabled!"
+        else:
+            print "Failed to enable motors..."
+    except rospy.ServiceException, e:
+        print "Enable service", SERVICE_ENABLE_MOTORS, "call failed: %s"%e
+
+
 def getKey():
 	tty.setraw(sys.stdin.fileno())
 	select.select([sys.stdin], [], [], 0)
@@ -59,6 +89,9 @@ def vels(speed,turn):
 	return "currently:\tspeed %s\tturn %s " % (speed,turn)
 
 if __name__=="__main__":
+
+    enableMotors()
+
     BASE_STABILIZED_FRAME = rospy.get_param('base_stabilized_frame', 'stabilized_frame')
     settings = termios.tcgetattr(sys.stdin)
 
@@ -132,3 +165,4 @@ if __name__=="__main__":
     	pub.publish(twistStamped)
 
     termios.tcsetattr(sys.stdin, termios.TCSADRAIN, settings)
+    disableMotors()
