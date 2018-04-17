@@ -174,6 +174,7 @@ if __name__=="__main__":
     now = datetime.datetime.now()
     filename = "test_files/%d-%d-%d-%d-%d-%d.txt" %(now.year, now.month, now.day, now.hour, now.minute, now.second)
     dataFile = open(CPS_DIR + filename,"w+")
+    # dataFile.write('t(s) x(m) y(m) z(m) vx(m/s) vy(m/s) vz(m/s)\n')
 
     rospy.Subscriber('/ground_truth/state', Odometry, stateCb)
 
@@ -213,15 +214,20 @@ if __name__=="__main__":
 
             poseStamped = publishPoseCommand(pub, WORLD_FRAME,
                                 cmdPosition.x, cmdPosition.y, cmdPosition.z)
-            dataFile.write('----- POSITION COMMAND -----\n')
+            # dataFile.write('xxxxx CURRENT POSITION xxxxx\n')
+            dataFile.write('%d.%d\t%.2f\t%.2f\t%.2f\n'
+                            % (poseStamped.header.stamp.secs,
+                            poseStamped.header.stamp.nsecs/10000000,
+                            position.x, position.y, position.z))
+            # dataFile.write('----- POSITION COMMAND -----\n')
             dataFile.write('%d.%d\t%.2f\t%.2f\t%.2f\n'
                             % (poseStamped.header.stamp.secs,
                             poseStamped.header.stamp.nsecs/10000000,
                             cmdPosition.x, cmdPosition.y, cmdPosition.z))
-            dataFile.write('t(s)\tx(m)\ty(m)\tz(m)\tvx(m/s)\tvy(m/s)\tvz(m/s)\n')
             # time.sleep(0.5) # delay to avoid double clicks
+
     except:
-        print e
+        print 'An error occured'
 
     termios.tcsetattr(sys.stdin, termios.TCSADRAIN, settings)
     dataFile.close()
