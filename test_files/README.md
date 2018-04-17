@@ -5,13 +5,16 @@ Commands are separated by empty line
 
 ## Test Format
 Line 1: Current position
+
 Line 2: Commanded position
+
 Lines 3 to empty: position as quadrotor moves from current position to commanded position
 
 ## Line Format
 Time(s) Position.x(m) Position.y(m) Position.z(m) Velocity.x(m/s) Velocity.y(m/s) Velocity.z(m/s)
 
 ## Example
+```
 20.14	-0.00	-0.00	1.18
 20.14	-0.00	1.00	1.18
 20.14 -0.00 -0.00 1.18 -0.00 -0.00 0.00
@@ -45,3 +48,4 @@ Time(s) Position.x(m) Position.y(m) Position.z(m) Velocity.x(m/s) Velocity.y(m/s
 29.84 0.04 1.00 1.18 0.54 -0.00 -0.08
 29.89 0.07 1.00 1.17 0.73 -0.00 -0.09
 ...
+```
