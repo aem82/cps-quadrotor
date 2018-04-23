@@ -1,0 +1,3300 @@
+
+ERROR RADIUS: 0 PATH DISTANCE: 0
+num Left: 0 num stayed: 319 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.04999999999999716 max stayed: 8.129999999999999median stayed: 7.399999999999999 mean stayed: 5.0737304075235095
+
+ERROR RADIUS: 0 PATH DISTANCE: 1
+num Left: 0 num stayed: 1845 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.4199999999999946 max stayed: 9.959999999999999median stayed: 5.090000000000003 mean stayed: 6.629897018970178
+
+ERROR RADIUS: 0 PATH DISTANCE: 2
+num Left: 0 num stayed: 2960 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 1.1899999999999977 max stayed: 13.18median stayed: 8.149999999999991 mean stayed: 8.28648986486485
+
+ERROR RADIUS: 0 PATH DISTANCE: 3
+num Left: 0 num stayed: 4202 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 2.799999999999983 max stayed: 15.049999999999997median stayed: 7.469999999999999 mean stayed: 10.2743907663017
+
+ERROR RADIUS: 0 PATH DISTANCE: 4
+num Left: 0 num stayed: 615 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.300000000000011 max stayed: 16.97median stayed: 11.5 mean stayed: 12.005756097560987
+
+ERROR RADIUS: 0 PATH DISTANCE: 5
+num Left: 0 num stayed: 1294 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.719999999999999 max stayed: 18.229999999999997median stayed: 16.049999999999997 mean stayed: 13.023284389489941
+
+ERROR RADIUS: 0 PATH DISTANCE: 6
+num Left: 0 num stayed: 2646 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.900000000000006 max stayed: 18.379999999999995median stayed: 14.859999999999985 mean stayed: 13.606092214663644
+
+ERROR RADIUS: 0 PATH DISTANCE: 7
+num Left: 0 num stayed: 6110 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.25 max stayed: 20.639999999999986median stayed: 14.300000000000011 mean stayed: 15.548011456628512
+
+ERROR RADIUS: 0 PATH DISTANCE: 8
+num Left: 0 num stayed: 584 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 3.6000000000000014 max stayed: 20.289999999999992median stayed: 20.150000000000006 mean stayed: 17.42164383561644
+
+ERROR RADIUS: 0 PATH DISTANCE: 9
+num Left: 0 num stayed: 504 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.900000000000006 max stayed: 21.85median stayed: 17.400000000000006 mean stayed: 16.882123015873013
+
+ERROR RADIUS: 0 PATH DISTANCE: 10
+num Left: 0 num stayed: 650 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.849999999999994 max stayed: 21.85median stayed: 14.599999999999994 mean stayed: 17.939584615384625
+
+ERROR RADIUS: 0.25 PATH DISTANCE: 0
+num Left: 75 num stayed: 244 percent stayed: 0.7648902821316614
+min left: 4.200000000000003 max left: 8.129999999999999median left: 8.0 mean left: 6.717866666666665
+min stayed: 0.04999999999999716 max stayed: 8.129999999999999median stayed: 7.350000000000001 mean stayed: 4.568360655737706
+
+ERROR RADIUS: 0.25 PATH DISTANCE: 1
+num Left: 231 num stayed: 1614 percent stayed: 0.8747967479674796
+min left: 4.25 max left: 9.959999999999999median left: 8.800000000000004 mean left: 7.961212121212123
+min stayed: 0.4199999999999946 max stayed: 8.759999999999998median stayed: 6.97999999999999 mean stayed: 6.4393556381660355
+
+ERROR RADIUS: 0.25 PATH DISTANCE: 2
+num Left: 2958 num stayed: 2 percent stayed: 0.0006756756756756757
+min left: 2.549999999999997 max left: 13.18median left: 8.149999999999991 mean left: 8.291288032454345
+min stayed: 1.1899999999999977 max stayed: 1.1899999999999977median stayed: 1.1899999999999977 mean stayed: 1.1899999999999977
+
+ERROR RADIUS: 0.25 PATH DISTANCE: 3
+num Left: 4202 num stayed: 0 percent stayed: 0
+min left: 2.799999999999983 max left: 15.049999999999997median left: 7.469999999999999 mean left: 10.2743907663017
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 0.25 PATH DISTANCE: 4
+num Left: 615 num stayed: 0 percent stayed: 0
+min left: 4.300000000000011 max left: 16.97median left: 11.5 mean left: 12.005756097560987
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 0.25 PATH DISTANCE: 5
+num Left: 1294 num stayed: 0 percent stayed: 0
+min left: 4.719999999999999 max left: 18.229999999999997median left: 16.049999999999997 mean left: 13.023284389489941
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 0.25 PATH DISTANCE: 6
+num Left: 2646 num stayed: 0 percent stayed: 0
+min left: 4.900000000000006 max left: 18.379999999999995median left: 14.859999999999985 mean left: 13.606092214663644
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 0.25 PATH DISTANCE: 7
+num Left: 6110 num stayed: 0 percent stayed: 0
+min left: 5.25 max left: 20.639999999999986median left: 14.300000000000011 mean left: 15.548011456628512
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 0.25 PATH DISTANCE: 8
+num Left: 584 num stayed: 0 percent stayed: 0
+min left: 3.6000000000000014 max left: 20.289999999999992median left: 20.150000000000006 mean left: 17.42164383561644
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 0.25 PATH DISTANCE: 9
+num Left: 504 num stayed: 0 percent stayed: 0
+min left: 5.900000000000006 max left: 21.85median left: 17.400000000000006 mean left: 16.882123015873013
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 0.25 PATH DISTANCE: 10
+num Left: 650 num stayed: 0 percent stayed: 0
+min left: 5.849999999999994 max left: 21.85median left: 14.599999999999994 mean left: 17.939584615384625
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 0.5 PATH DISTANCE: 0
+num Left: 0 num stayed: 319 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.04999999999999716 max stayed: 8.129999999999999median stayed: 7.399999999999999 mean stayed: 5.0737304075235095
+
+ERROR RADIUS: 0.5 PATH DISTANCE: 1
+num Left: 231 num stayed: 1614 percent stayed: 0.8747967479674796
+min left: 4.25 max left: 9.959999999999999median left: 8.800000000000004 mean left: 7.961212121212123
+min stayed: 0.4199999999999946 max stayed: 8.759999999999998median stayed: 6.97999999999999 mean stayed: 6.4393556381660355
+
+ERROR RADIUS: 0.5 PATH DISTANCE: 2
+num Left: 2958 num stayed: 2 percent stayed: 0.0006756756756756757
+min left: 2.549999999999997 max left: 13.18median left: 8.149999999999991 mean left: 8.291288032454345
+min stayed: 1.1899999999999977 max stayed: 1.1899999999999977median stayed: 1.1899999999999977 mean stayed: 1.1899999999999977
+
+ERROR RADIUS: 0.5 PATH DISTANCE: 3
+num Left: 4202 num stayed: 0 percent stayed: 0
+min left: 2.799999999999983 max left: 15.049999999999997median left: 7.469999999999999 mean left: 10.2743907663017
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 0.5 PATH DISTANCE: 4
+num Left: 615 num stayed: 0 percent stayed: 0
+min left: 4.300000000000011 max left: 16.97median left: 11.5 mean left: 12.005756097560987
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 0.5 PATH DISTANCE: 5
+num Left: 1294 num stayed: 0 percent stayed: 0
+min left: 4.719999999999999 max left: 18.229999999999997median left: 16.049999999999997 mean left: 13.023284389489941
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 0.5 PATH DISTANCE: 6
+num Left: 2646 num stayed: 0 percent stayed: 0
+min left: 4.900000000000006 max left: 18.379999999999995median left: 14.859999999999985 mean left: 13.606092214663644
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 0.5 PATH DISTANCE: 7
+num Left: 6110 num stayed: 0 percent stayed: 0
+min left: 5.25 max left: 20.639999999999986median left: 14.300000000000011 mean left: 15.548011456628512
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 0.5 PATH DISTANCE: 8
+num Left: 584 num stayed: 0 percent stayed: 0
+min left: 3.6000000000000014 max left: 20.289999999999992median left: 20.150000000000006 mean left: 17.42164383561644
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 0.5 PATH DISTANCE: 9
+num Left: 504 num stayed: 0 percent stayed: 0
+min left: 5.900000000000006 max left: 21.85median left: 17.400000000000006 mean left: 16.882123015873013
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 0.5 PATH DISTANCE: 10
+num Left: 650 num stayed: 0 percent stayed: 0
+min left: 5.849999999999994 max left: 21.85median left: 14.599999999999994 mean left: 17.939584615384625
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 0.75 PATH DISTANCE: 0
+num Left: 0 num stayed: 319 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.04999999999999716 max stayed: 8.129999999999999median stayed: 7.399999999999999 mean stayed: 5.0737304075235095
+
+ERROR RADIUS: 0.75 PATH DISTANCE: 1
+num Left: 0 num stayed: 1845 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.4199999999999946 max stayed: 9.959999999999999median stayed: 5.090000000000003 mean stayed: 6.629897018970178
+
+ERROR RADIUS: 0.75 PATH DISTANCE: 2
+num Left: 366 num stayed: 2594 percent stayed: 0.8763513513513513
+min left: 4.25 max left: 13.18median left: 7.850000000000001 mean left: 10.17008196721312
+min stayed: 1.1899999999999977 max stayed: 10.950000000000003median stayed: 4.840000000000003 mean stayed: 8.02072474942172
+
+ERROR RADIUS: 0.75 PATH DISTANCE: 3
+num Left: 4202 num stayed: 0 percent stayed: 0
+min left: 2.799999999999983 max left: 15.049999999999997median left: 7.469999999999999 mean left: 10.2743907663017
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 0.75 PATH DISTANCE: 4
+num Left: 615 num stayed: 0 percent stayed: 0
+min left: 4.300000000000011 max left: 16.97median left: 11.5 mean left: 12.005756097560987
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 0.75 PATH DISTANCE: 5
+num Left: 1294 num stayed: 0 percent stayed: 0
+min left: 4.719999999999999 max left: 18.229999999999997median left: 16.049999999999997 mean left: 13.023284389489941
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 0.75 PATH DISTANCE: 6
+num Left: 2646 num stayed: 0 percent stayed: 0
+min left: 4.900000000000006 max left: 18.379999999999995median left: 14.859999999999985 mean left: 13.606092214663644
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 0.75 PATH DISTANCE: 7
+num Left: 6110 num stayed: 0 percent stayed: 0
+min left: 5.25 max left: 20.639999999999986median left: 14.300000000000011 mean left: 15.548011456628512
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 0.75 PATH DISTANCE: 8
+num Left: 584 num stayed: 0 percent stayed: 0
+min left: 3.6000000000000014 max left: 20.289999999999992median left: 20.150000000000006 mean left: 17.42164383561644
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 0.75 PATH DISTANCE: 9
+num Left: 504 num stayed: 0 percent stayed: 0
+min left: 5.900000000000006 max left: 21.85median left: 17.400000000000006 mean left: 16.882123015873013
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 0.75 PATH DISTANCE: 10
+num Left: 650 num stayed: 0 percent stayed: 0
+min left: 5.849999999999994 max left: 21.85median left: 14.599999999999994 mean left: 17.939584615384625
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 1 PATH DISTANCE: 0
+num Left: 0 num stayed: 319 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.04999999999999716 max stayed: 8.129999999999999median stayed: 7.399999999999999 mean stayed: 5.0737304075235095
+
+ERROR RADIUS: 1 PATH DISTANCE: 1
+num Left: 0 num stayed: 1845 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.4199999999999946 max stayed: 9.959999999999999median stayed: 5.090000000000003 mean stayed: 6.629897018970178
+
+ERROR RADIUS: 1 PATH DISTANCE: 2
+num Left: 0 num stayed: 2960 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 1.1899999999999977 max stayed: 13.18median stayed: 8.149999999999991 mean stayed: 8.28648986486485
+
+ERROR RADIUS: 1 PATH DISTANCE: 3
+num Left: 532 num stayed: 3670 percent stayed: 0.8733936220847216
+min left: 3.8500000000000014 max left: 15.049999999999997median left: 10.25 mean left: 11.554793233082714
+min stayed: 2.799999999999983 max stayed: 13.420000000000016median stayed: 9.240000000000009 mean stayed: 10.088784741144352
+
+ERROR RADIUS: 1 PATH DISTANCE: 4
+num Left: 615 num stayed: 0 percent stayed: 0
+min left: 4.300000000000011 max left: 16.97median left: 11.5 mean left: 12.005756097560987
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 1 PATH DISTANCE: 5
+num Left: 1294 num stayed: 0 percent stayed: 0
+min left: 4.719999999999999 max left: 18.229999999999997median left: 16.049999999999997 mean left: 13.023284389489941
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 1 PATH DISTANCE: 6
+num Left: 2646 num stayed: 0 percent stayed: 0
+min left: 4.900000000000006 max left: 18.379999999999995median left: 14.859999999999985 mean left: 13.606092214663644
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 1 PATH DISTANCE: 7
+num Left: 6110 num stayed: 0 percent stayed: 0
+min left: 5.25 max left: 20.639999999999986median left: 14.300000000000011 mean left: 15.548011456628512
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 1 PATH DISTANCE: 8
+num Left: 584 num stayed: 0 percent stayed: 0
+min left: 3.6000000000000014 max left: 20.289999999999992median left: 20.150000000000006 mean left: 17.42164383561644
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 1 PATH DISTANCE: 9
+num Left: 504 num stayed: 0 percent stayed: 0
+min left: 5.900000000000006 max left: 21.85median left: 17.400000000000006 mean left: 16.882123015873013
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 1 PATH DISTANCE: 10
+num Left: 650 num stayed: 0 percent stayed: 0
+min left: 5.849999999999994 max left: 21.85median left: 14.599999999999994 mean left: 17.939584615384625
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 1.25 PATH DISTANCE: 0
+num Left: 0 num stayed: 319 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.04999999999999716 max stayed: 8.129999999999999median stayed: 7.399999999999999 mean stayed: 5.0737304075235095
+
+ERROR RADIUS: 1.25 PATH DISTANCE: 1
+num Left: 0 num stayed: 1845 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.4199999999999946 max stayed: 9.959999999999999median stayed: 5.090000000000003 mean stayed: 6.629897018970178
+
+ERROR RADIUS: 1.25 PATH DISTANCE: 2
+num Left: 0 num stayed: 2960 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 1.1899999999999977 max stayed: 13.18median stayed: 8.149999999999991 mean stayed: 8.28648986486485
+
+ERROR RADIUS: 1.25 PATH DISTANCE: 3
+num Left: 532 num stayed: 3670 percent stayed: 0.8733936220847216
+min left: 3.8500000000000014 max left: 15.049999999999997median left: 10.25 mean left: 11.554793233082714
+min stayed: 2.799999999999983 max stayed: 13.420000000000016median stayed: 9.240000000000009 mean stayed: 10.088784741144352
+
+ERROR RADIUS: 1.25 PATH DISTANCE: 4
+num Left: 615 num stayed: 0 percent stayed: 0
+min left: 4.300000000000011 max left: 16.97median left: 11.5 mean left: 12.005756097560987
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 1.25 PATH DISTANCE: 5
+num Left: 1294 num stayed: 0 percent stayed: 0
+min left: 4.719999999999999 max left: 18.229999999999997median left: 16.049999999999997 mean left: 13.023284389489941
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 1.25 PATH DISTANCE: 6
+num Left: 2646 num stayed: 0 percent stayed: 0
+min left: 4.900000000000006 max left: 18.379999999999995median left: 14.859999999999985 mean left: 13.606092214663644
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 1.25 PATH DISTANCE: 7
+num Left: 6110 num stayed: 0 percent stayed: 0
+min left: 5.25 max left: 20.639999999999986median left: 14.300000000000011 mean left: 15.548011456628512
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 1.25 PATH DISTANCE: 8
+num Left: 584 num stayed: 0 percent stayed: 0
+min left: 3.6000000000000014 max left: 20.289999999999992median left: 20.150000000000006 mean left: 17.42164383561644
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 1.25 PATH DISTANCE: 9
+num Left: 504 num stayed: 0 percent stayed: 0
+min left: 5.900000000000006 max left: 21.85median left: 17.400000000000006 mean left: 16.882123015873013
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 1.25 PATH DISTANCE: 10
+num Left: 650 num stayed: 0 percent stayed: 0
+min left: 5.849999999999994 max left: 21.85median left: 14.599999999999994 mean left: 17.939584615384625
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 1.5 PATH DISTANCE: 0
+num Left: 0 num stayed: 319 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.04999999999999716 max stayed: 8.129999999999999median stayed: 7.399999999999999 mean stayed: 5.0737304075235095
+
+ERROR RADIUS: 1.5 PATH DISTANCE: 1
+num Left: 0 num stayed: 1845 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.4199999999999946 max stayed: 9.959999999999999median stayed: 5.090000000000003 mean stayed: 6.629897018970178
+
+ERROR RADIUS: 1.5 PATH DISTANCE: 2
+num Left: 0 num stayed: 2960 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 1.1899999999999977 max stayed: 13.18median stayed: 8.149999999999991 mean stayed: 8.28648986486485
+
+ERROR RADIUS: 1.5 PATH DISTANCE: 3
+num Left: 0 num stayed: 4202 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 2.799999999999983 max stayed: 15.049999999999997median stayed: 7.469999999999999 mean stayed: 10.2743907663017
+
+ERROR RADIUS: 1.5 PATH DISTANCE: 4
+num Left: 244 num stayed: 371 percent stayed: 0.6032520325203252
+min left: 6.350000000000001 max left: 16.97median left: 10.969999999999999 mean left: 12.924754098360651
+min stayed: 4.300000000000011 max stayed: 14.700000000000003median stayed: 11.400000000000006 mean stayed: 11.40134770889489
+
+ERROR RADIUS: 1.5 PATH DISTANCE: 5
+num Left: 1294 num stayed: 0 percent stayed: 0
+min left: 4.719999999999999 max left: 18.229999999999997median left: 16.049999999999997 mean left: 13.023284389489941
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 1.5 PATH DISTANCE: 6
+num Left: 2646 num stayed: 0 percent stayed: 0
+min left: 4.900000000000006 max left: 18.379999999999995median left: 14.859999999999985 mean left: 13.606092214663644
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 1.5 PATH DISTANCE: 7
+num Left: 6110 num stayed: 0 percent stayed: 0
+min left: 5.25 max left: 20.639999999999986median left: 14.300000000000011 mean left: 15.548011456628512
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 1.5 PATH DISTANCE: 8
+num Left: 584 num stayed: 0 percent stayed: 0
+min left: 3.6000000000000014 max left: 20.289999999999992median left: 20.150000000000006 mean left: 17.42164383561644
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 1.5 PATH DISTANCE: 9
+num Left: 504 num stayed: 0 percent stayed: 0
+min left: 5.900000000000006 max left: 21.85median left: 17.400000000000006 mean left: 16.882123015873013
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 1.5 PATH DISTANCE: 10
+num Left: 650 num stayed: 0 percent stayed: 0
+min left: 5.849999999999994 max left: 21.85median left: 14.599999999999994 mean left: 17.939584615384625
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 1.75 PATH DISTANCE: 0
+num Left: 0 num stayed: 319 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.04999999999999716 max stayed: 8.129999999999999median stayed: 7.399999999999999 mean stayed: 5.0737304075235095
+
+ERROR RADIUS: 1.75 PATH DISTANCE: 1
+num Left: 0 num stayed: 1845 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.4199999999999946 max stayed: 9.959999999999999median stayed: 5.090000000000003 mean stayed: 6.629897018970178
+
+ERROR RADIUS: 1.75 PATH DISTANCE: 2
+num Left: 0 num stayed: 2960 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 1.1899999999999977 max stayed: 13.18median stayed: 8.149999999999991 mean stayed: 8.28648986486485
+
+ERROR RADIUS: 1.75 PATH DISTANCE: 3
+num Left: 0 num stayed: 4202 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 2.799999999999983 max stayed: 15.049999999999997median stayed: 7.469999999999999 mean stayed: 10.2743907663017
+
+ERROR RADIUS: 1.75 PATH DISTANCE: 4
+num Left: 244 num stayed: 371 percent stayed: 0.6032520325203252
+min left: 6.350000000000001 max left: 16.97median left: 10.969999999999999 mean left: 12.924754098360651
+min stayed: 4.300000000000011 max stayed: 14.700000000000003median stayed: 11.400000000000006 mean stayed: 11.40134770889489
+
+ERROR RADIUS: 1.75 PATH DISTANCE: 5
+num Left: 1294 num stayed: 0 percent stayed: 0
+min left: 4.719999999999999 max left: 18.229999999999997median left: 16.049999999999997 mean left: 13.023284389489941
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 1.75 PATH DISTANCE: 6
+num Left: 2646 num stayed: 0 percent stayed: 0
+min left: 4.900000000000006 max left: 18.379999999999995median left: 14.859999999999985 mean left: 13.606092214663644
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 1.75 PATH DISTANCE: 7
+num Left: 6110 num stayed: 0 percent stayed: 0
+min left: 5.25 max left: 20.639999999999986median left: 14.300000000000011 mean left: 15.548011456628512
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 1.75 PATH DISTANCE: 8
+num Left: 584 num stayed: 0 percent stayed: 0
+min left: 3.6000000000000014 max left: 20.289999999999992median left: 20.150000000000006 mean left: 17.42164383561644
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 1.75 PATH DISTANCE: 9
+num Left: 504 num stayed: 0 percent stayed: 0
+min left: 5.900000000000006 max left: 21.85median left: 17.400000000000006 mean left: 16.882123015873013
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 1.75 PATH DISTANCE: 10
+num Left: 650 num stayed: 0 percent stayed: 0
+min left: 5.849999999999994 max left: 21.85median left: 14.599999999999994 mean left: 17.939584615384625
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 2 PATH DISTANCE: 0
+num Left: 0 num stayed: 319 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.04999999999999716 max stayed: 8.129999999999999median stayed: 7.399999999999999 mean stayed: 5.0737304075235095
+
+ERROR RADIUS: 2 PATH DISTANCE: 1
+num Left: 0 num stayed: 1845 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.4199999999999946 max stayed: 9.959999999999999median stayed: 5.090000000000003 mean stayed: 6.629897018970178
+
+ERROR RADIUS: 2 PATH DISTANCE: 2
+num Left: 0 num stayed: 2960 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 1.1899999999999977 max stayed: 13.18median stayed: 8.149999999999991 mean stayed: 8.28648986486485
+
+ERROR RADIUS: 2 PATH DISTANCE: 3
+num Left: 0 num stayed: 4202 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 2.799999999999983 max stayed: 15.049999999999997median stayed: 7.469999999999999 mean stayed: 10.2743907663017
+
+ERROR RADIUS: 2 PATH DISTANCE: 4
+num Left: 0 num stayed: 615 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.300000000000011 max stayed: 16.97median stayed: 11.5 mean stayed: 12.005756097560987
+
+ERROR RADIUS: 2 PATH DISTANCE: 5
+num Left: 332 num stayed: 962 percent stayed: 0.7434312210200927
+min left: 4.719999999999999 max left: 18.229999999999997median left: 17.5 mean left: 13.430753012048191
+min stayed: 5.27 max stayed: 17.069999999999993median stayed: 15.099999999999994 mean stayed: 12.882661122661112
+
+ERROR RADIUS: 2 PATH DISTANCE: 6
+num Left: 2646 num stayed: 0 percent stayed: 0
+min left: 4.900000000000006 max left: 18.379999999999995median left: 14.859999999999985 mean left: 13.606092214663644
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 2 PATH DISTANCE: 7
+num Left: 6110 num stayed: 0 percent stayed: 0
+min left: 5.25 max left: 20.639999999999986median left: 14.300000000000011 mean left: 15.548011456628512
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 2 PATH DISTANCE: 8
+num Left: 584 num stayed: 0 percent stayed: 0
+min left: 3.6000000000000014 max left: 20.289999999999992median left: 20.150000000000006 mean left: 17.42164383561644
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 2 PATH DISTANCE: 9
+num Left: 504 num stayed: 0 percent stayed: 0
+min left: 5.900000000000006 max left: 21.85median left: 17.400000000000006 mean left: 16.882123015873013
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 2 PATH DISTANCE: 10
+num Left: 650 num stayed: 0 percent stayed: 0
+min left: 5.849999999999994 max left: 21.85median left: 14.599999999999994 mean left: 17.939584615384625
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 2.25 PATH DISTANCE: 0
+num Left: 0 num stayed: 319 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.04999999999999716 max stayed: 8.129999999999999median stayed: 7.399999999999999 mean stayed: 5.0737304075235095
+
+ERROR RADIUS: 2.25 PATH DISTANCE: 1
+num Left: 0 num stayed: 1845 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.4199999999999946 max stayed: 9.959999999999999median stayed: 5.090000000000003 mean stayed: 6.629897018970178
+
+ERROR RADIUS: 2.25 PATH DISTANCE: 2
+num Left: 0 num stayed: 2960 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 1.1899999999999977 max stayed: 13.18median stayed: 8.149999999999991 mean stayed: 8.28648986486485
+
+ERROR RADIUS: 2.25 PATH DISTANCE: 3
+num Left: 0 num stayed: 4202 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 2.799999999999983 max stayed: 15.049999999999997median stayed: 7.469999999999999 mean stayed: 10.2743907663017
+
+ERROR RADIUS: 2.25 PATH DISTANCE: 4
+num Left: 0 num stayed: 615 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.300000000000011 max stayed: 16.97median stayed: 11.5 mean stayed: 12.005756097560987
+
+ERROR RADIUS: 2.25 PATH DISTANCE: 5
+num Left: 172 num stayed: 1122 percent stayed: 0.8670788253477589
+min left: 7.9 max left: 18.229999999999997median left: 13.499999999999998 mean left: 13.543837209302328
+min stayed: 4.719999999999999 max stayed: 17.5median stayed: 11.75 mean stayed: 12.943484848484845
+
+ERROR RADIUS: 2.25 PATH DISTANCE: 6
+num Left: 776 num stayed: 1870 percent stayed: 0.7067271352985639
+min left: 8.0 max left: 18.379999999999995median left: 13.150000000000006 mean left: 13.838260309278303
+min stayed: 4.900000000000006 max stayed: 18.180000000000007median stayed: 10.799999999999983 mean stayed: 13.509748663101599
+
+ERROR RADIUS: 2.25 PATH DISTANCE: 7
+num Left: 6110 num stayed: 0 percent stayed: 0
+min left: 5.25 max left: 20.639999999999986median left: 14.300000000000011 mean left: 15.548011456628512
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 2.25 PATH DISTANCE: 8
+num Left: 584 num stayed: 0 percent stayed: 0
+min left: 3.6000000000000014 max left: 20.289999999999992median left: 20.150000000000006 mean left: 17.42164383561644
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 2.25 PATH DISTANCE: 9
+num Left: 504 num stayed: 0 percent stayed: 0
+min left: 5.900000000000006 max left: 21.85median left: 17.400000000000006 mean left: 16.882123015873013
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 2.25 PATH DISTANCE: 10
+num Left: 650 num stayed: 0 percent stayed: 0
+min left: 5.849999999999994 max left: 21.85median left: 14.599999999999994 mean left: 17.939584615384625
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 2.5 PATH DISTANCE: 0
+num Left: 0 num stayed: 319 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.04999999999999716 max stayed: 8.129999999999999median stayed: 7.399999999999999 mean stayed: 5.0737304075235095
+
+ERROR RADIUS: 2.5 PATH DISTANCE: 1
+num Left: 0 num stayed: 1845 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.4199999999999946 max stayed: 9.959999999999999median stayed: 5.090000000000003 mean stayed: 6.629897018970178
+
+ERROR RADIUS: 2.5 PATH DISTANCE: 2
+num Left: 0 num stayed: 2960 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 1.1899999999999977 max stayed: 13.18median stayed: 8.149999999999991 mean stayed: 8.28648986486485
+
+ERROR RADIUS: 2.5 PATH DISTANCE: 3
+num Left: 0 num stayed: 4202 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 2.799999999999983 max stayed: 15.049999999999997median stayed: 7.469999999999999 mean stayed: 10.2743907663017
+
+ERROR RADIUS: 2.5 PATH DISTANCE: 4
+num Left: 0 num stayed: 615 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.300000000000011 max stayed: 16.97median stayed: 11.5 mean stayed: 12.005756097560987
+
+ERROR RADIUS: 2.5 PATH DISTANCE: 5
+num Left: 172 num stayed: 1122 percent stayed: 0.8670788253477589
+min left: 7.9 max left: 18.229999999999997median left: 13.499999999999998 mean left: 13.543837209302328
+min stayed: 4.719999999999999 max stayed: 17.5median stayed: 11.75 mean stayed: 12.943484848484845
+
+ERROR RADIUS: 2.5 PATH DISTANCE: 6
+num Left: 0 num stayed: 2646 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.900000000000006 max stayed: 18.379999999999995median stayed: 14.859999999999985 mean stayed: 13.606092214663644
+
+ERROR RADIUS: 2.5 PATH DISTANCE: 7
+num Left: 6110 num stayed: 0 percent stayed: 0
+min left: 5.25 max left: 20.639999999999986median left: 14.300000000000011 mean left: 15.548011456628512
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 2.5 PATH DISTANCE: 8
+num Left: 584 num stayed: 0 percent stayed: 0
+min left: 3.6000000000000014 max left: 20.289999999999992median left: 20.150000000000006 mean left: 17.42164383561644
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 2.5 PATH DISTANCE: 9
+num Left: 504 num stayed: 0 percent stayed: 0
+min left: 5.900000000000006 max left: 21.85median left: 17.400000000000006 mean left: 16.882123015873013
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 2.5 PATH DISTANCE: 10
+num Left: 650 num stayed: 0 percent stayed: 0
+min left: 5.849999999999994 max left: 21.85median left: 14.599999999999994 mean left: 17.939584615384625
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 2.75 PATH DISTANCE: 0
+num Left: 0 num stayed: 319 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.04999999999999716 max stayed: 8.129999999999999median stayed: 7.399999999999999 mean stayed: 5.0737304075235095
+
+ERROR RADIUS: 2.75 PATH DISTANCE: 1
+num Left: 0 num stayed: 1845 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.4199999999999946 max stayed: 9.959999999999999median stayed: 5.090000000000003 mean stayed: 6.629897018970178
+
+ERROR RADIUS: 2.75 PATH DISTANCE: 2
+num Left: 0 num stayed: 2960 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 1.1899999999999977 max stayed: 13.18median stayed: 8.149999999999991 mean stayed: 8.28648986486485
+
+ERROR RADIUS: 2.75 PATH DISTANCE: 3
+num Left: 0 num stayed: 4202 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 2.799999999999983 max stayed: 15.049999999999997median stayed: 7.469999999999999 mean stayed: 10.2743907663017
+
+ERROR RADIUS: 2.75 PATH DISTANCE: 4
+num Left: 0 num stayed: 615 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.300000000000011 max stayed: 16.97median stayed: 11.5 mean stayed: 12.005756097560987
+
+ERROR RADIUS: 2.75 PATH DISTANCE: 5
+num Left: 0 num stayed: 1294 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.719999999999999 max stayed: 18.229999999999997median stayed: 16.049999999999997 mean stayed: 13.023284389489941
+
+ERROR RADIUS: 2.75 PATH DISTANCE: 6
+num Left: 0 num stayed: 2646 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.900000000000006 max stayed: 18.379999999999995median stayed: 14.859999999999985 mean stayed: 13.606092214663644
+
+ERROR RADIUS: 2.75 PATH DISTANCE: 7
+num Left: 1598 num stayed: 4512 percent stayed: 0.7384615384615385
+min left: 6.450000000000003 max left: 20.639999999999986median left: 16.0 mean left: 16.3194305381727
+min stayed: 5.25 max stayed: 19.149999999999977median stayed: 14.949999999999989 mean stayed: 15.274800531914892
+
+ERROR RADIUS: 2.75 PATH DISTANCE: 8
+num Left: 584 num stayed: 0 percent stayed: 0
+min left: 3.6000000000000014 max left: 20.289999999999992median left: 20.150000000000006 mean left: 17.42164383561644
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 2.75 PATH DISTANCE: 9
+num Left: 504 num stayed: 0 percent stayed: 0
+min left: 5.900000000000006 max left: 21.85median left: 17.400000000000006 mean left: 16.882123015873013
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 2.75 PATH DISTANCE: 10
+num Left: 650 num stayed: 0 percent stayed: 0
+min left: 5.849999999999994 max left: 21.85median left: 14.599999999999994 mean left: 17.939584615384625
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 3 PATH DISTANCE: 0
+num Left: 0 num stayed: 319 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.04999999999999716 max stayed: 8.129999999999999median stayed: 7.399999999999999 mean stayed: 5.0737304075235095
+
+ERROR RADIUS: 3 PATH DISTANCE: 1
+num Left: 0 num stayed: 1845 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.4199999999999946 max stayed: 9.959999999999999median stayed: 5.090000000000003 mean stayed: 6.629897018970178
+
+ERROR RADIUS: 3 PATH DISTANCE: 2
+num Left: 0 num stayed: 2960 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 1.1899999999999977 max stayed: 13.18median stayed: 8.149999999999991 mean stayed: 8.28648986486485
+
+ERROR RADIUS: 3 PATH DISTANCE: 3
+num Left: 0 num stayed: 4202 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 2.799999999999983 max stayed: 15.049999999999997median stayed: 7.469999999999999 mean stayed: 10.2743907663017
+
+ERROR RADIUS: 3 PATH DISTANCE: 4
+num Left: 0 num stayed: 615 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.300000000000011 max stayed: 16.97median stayed: 11.5 mean stayed: 12.005756097560987
+
+ERROR RADIUS: 3 PATH DISTANCE: 5
+num Left: 0 num stayed: 1294 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.719999999999999 max stayed: 18.229999999999997median stayed: 16.049999999999997 mean stayed: 13.023284389489941
+
+ERROR RADIUS: 3 PATH DISTANCE: 6
+num Left: 0 num stayed: 2646 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.900000000000006 max stayed: 18.379999999999995median stayed: 14.859999999999985 mean stayed: 13.606092214663644
+
+ERROR RADIUS: 3 PATH DISTANCE: 7
+num Left: 1598 num stayed: 4512 percent stayed: 0.7384615384615385
+min left: 6.450000000000003 max left: 20.639999999999986median left: 16.0 mean left: 16.3194305381727
+min stayed: 5.25 max stayed: 19.149999999999977median stayed: 14.949999999999989 mean stayed: 15.274800531914892
+
+ERROR RADIUS: 3 PATH DISTANCE: 8
+num Left: 584 num stayed: 0 percent stayed: 0
+min left: 3.6000000000000014 max left: 20.289999999999992median left: 20.150000000000006 mean left: 17.42164383561644
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 3 PATH DISTANCE: 9
+num Left: 504 num stayed: 0 percent stayed: 0
+min left: 5.900000000000006 max left: 21.85median left: 17.400000000000006 mean left: 16.882123015873013
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 3 PATH DISTANCE: 10
+num Left: 650 num stayed: 0 percent stayed: 0
+min left: 5.849999999999994 max left: 21.85median left: 14.599999999999994 mean left: 17.939584615384625
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 3.25 PATH DISTANCE: 0
+num Left: 0 num stayed: 319 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.04999999999999716 max stayed: 8.129999999999999median stayed: 7.399999999999999 mean stayed: 5.0737304075235095
+
+ERROR RADIUS: 3.25 PATH DISTANCE: 1
+num Left: 0 num stayed: 1845 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.4199999999999946 max stayed: 9.959999999999999median stayed: 5.090000000000003 mean stayed: 6.629897018970178
+
+ERROR RADIUS: 3.25 PATH DISTANCE: 2
+num Left: 0 num stayed: 2960 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 1.1899999999999977 max stayed: 13.18median stayed: 8.149999999999991 mean stayed: 8.28648986486485
+
+ERROR RADIUS: 3.25 PATH DISTANCE: 3
+num Left: 0 num stayed: 4202 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 2.799999999999983 max stayed: 15.049999999999997median stayed: 7.469999999999999 mean stayed: 10.2743907663017
+
+ERROR RADIUS: 3.25 PATH DISTANCE: 4
+num Left: 0 num stayed: 615 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.300000000000011 max stayed: 16.97median stayed: 11.5 mean stayed: 12.005756097560987
+
+ERROR RADIUS: 3.25 PATH DISTANCE: 5
+num Left: 0 num stayed: 1294 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.719999999999999 max stayed: 18.229999999999997median stayed: 16.049999999999997 mean stayed: 13.023284389489941
+
+ERROR RADIUS: 3.25 PATH DISTANCE: 6
+num Left: 0 num stayed: 2646 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.900000000000006 max stayed: 18.379999999999995median stayed: 14.859999999999985 mean stayed: 13.606092214663644
+
+ERROR RADIUS: 3.25 PATH DISTANCE: 7
+num Left: 882 num stayed: 5228 percent stayed: 0.855646481178396
+min left: 6.450000000000003 max left: 20.639999999999986median left: 20.299999999999983 mean left: 16.478639455782318
+min stayed: 5.25 max stayed: 20.240000000000002median stayed: 12.75 mean stayed: 15.391008033664932
+
+ERROR RADIUS: 3.25 PATH DISTANCE: 8
+num Left: 104 num stayed: 480 percent stayed: 0.821917808219178
+min left: 17.599999999999994 max left: 20.289999999999992median left: 20.150000000000006 mean left: 18.911346153846146
+min stayed: 3.6000000000000014 max stayed: 19.85000000000001median stayed: 19.85000000000001 mean stayed: 17.098874999999982
+
+ERROR RADIUS: 3.25 PATH DISTANCE: 9
+num Left: 504 num stayed: 0 percent stayed: 0
+min left: 5.900000000000006 max left: 21.85median left: 17.400000000000006 mean left: 16.882123015873013
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 3.25 PATH DISTANCE: 10
+num Left: 650 num stayed: 0 percent stayed: 0
+min left: 5.849999999999994 max left: 21.85median left: 14.599999999999994 mean left: 17.939584615384625
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 3.5 PATH DISTANCE: 0
+num Left: 0 num stayed: 319 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.04999999999999716 max stayed: 8.129999999999999median stayed: 7.399999999999999 mean stayed: 5.0737304075235095
+
+ERROR RADIUS: 3.5 PATH DISTANCE: 1
+num Left: 0 num stayed: 1845 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.4199999999999946 max stayed: 9.959999999999999median stayed: 5.090000000000003 mean stayed: 6.629897018970178
+
+ERROR RADIUS: 3.5 PATH DISTANCE: 2
+num Left: 0 num stayed: 2960 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 1.1899999999999977 max stayed: 13.18median stayed: 8.149999999999991 mean stayed: 8.28648986486485
+
+ERROR RADIUS: 3.5 PATH DISTANCE: 3
+num Left: 0 num stayed: 4202 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 2.799999999999983 max stayed: 15.049999999999997median stayed: 7.469999999999999 mean stayed: 10.2743907663017
+
+ERROR RADIUS: 3.5 PATH DISTANCE: 4
+num Left: 0 num stayed: 615 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.300000000000011 max stayed: 16.97median stayed: 11.5 mean stayed: 12.005756097560987
+
+ERROR RADIUS: 3.5 PATH DISTANCE: 5
+num Left: 0 num stayed: 1294 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.719999999999999 max stayed: 18.229999999999997median stayed: 16.049999999999997 mean stayed: 13.023284389489941
+
+ERROR RADIUS: 3.5 PATH DISTANCE: 6
+num Left: 0 num stayed: 2646 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.900000000000006 max stayed: 18.379999999999995median stayed: 14.859999999999985 mean stayed: 13.606092214663644
+
+ERROR RADIUS: 3.5 PATH DISTANCE: 7
+num Left: 0 num stayed: 6110 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.25 max stayed: 20.639999999999986median stayed: 14.300000000000011 mean stayed: 15.548011456628512
+
+ERROR RADIUS: 3.5 PATH DISTANCE: 8
+num Left: 0 num stayed: 584 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 3.6000000000000014 max stayed: 20.289999999999992median stayed: 20.150000000000006 mean stayed: 17.42164383561644
+
+ERROR RADIUS: 3.5 PATH DISTANCE: 9
+num Left: 504 num stayed: 0 percent stayed: 0
+min left: 5.900000000000006 max left: 21.85median left: 17.400000000000006 mean left: 16.882123015873013
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 3.5 PATH DISTANCE: 10
+num Left: 650 num stayed: 0 percent stayed: 0
+min left: 5.849999999999994 max left: 21.85median left: 14.599999999999994 mean left: 17.939584615384625
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 3.75 PATH DISTANCE: 0
+num Left: 0 num stayed: 319 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.04999999999999716 max stayed: 8.129999999999999median stayed: 7.399999999999999 mean stayed: 5.0737304075235095
+
+ERROR RADIUS: 3.75 PATH DISTANCE: 1
+num Left: 0 num stayed: 1845 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.4199999999999946 max stayed: 9.959999999999999median stayed: 5.090000000000003 mean stayed: 6.629897018970178
+
+ERROR RADIUS: 3.75 PATH DISTANCE: 2
+num Left: 0 num stayed: 2960 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 1.1899999999999977 max stayed: 13.18median stayed: 8.149999999999991 mean stayed: 8.28648986486485
+
+ERROR RADIUS: 3.75 PATH DISTANCE: 3
+num Left: 0 num stayed: 4202 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 2.799999999999983 max stayed: 15.049999999999997median stayed: 7.469999999999999 mean stayed: 10.2743907663017
+
+ERROR RADIUS: 3.75 PATH DISTANCE: 4
+num Left: 0 num stayed: 615 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.300000000000011 max stayed: 16.97median stayed: 11.5 mean stayed: 12.005756097560987
+
+ERROR RADIUS: 3.75 PATH DISTANCE: 5
+num Left: 0 num stayed: 1294 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.719999999999999 max stayed: 18.229999999999997median stayed: 16.049999999999997 mean stayed: 13.023284389489941
+
+ERROR RADIUS: 3.75 PATH DISTANCE: 6
+num Left: 0 num stayed: 2646 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.900000000000006 max stayed: 18.379999999999995median stayed: 14.859999999999985 mean stayed: 13.606092214663644
+
+ERROR RADIUS: 3.75 PATH DISTANCE: 7
+num Left: 0 num stayed: 6110 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.25 max stayed: 20.639999999999986median stayed: 14.300000000000011 mean stayed: 15.548011456628512
+
+ERROR RADIUS: 3.75 PATH DISTANCE: 8
+num Left: 0 num stayed: 584 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 3.6000000000000014 max stayed: 20.289999999999992median stayed: 20.150000000000006 mean stayed: 17.42164383561644
+
+ERROR RADIUS: 3.75 PATH DISTANCE: 9
+num Left: 504 num stayed: 0 percent stayed: 0
+min left: 5.900000000000006 max left: 21.85median left: 17.400000000000006 mean left: 16.882123015873013
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 3.75 PATH DISTANCE: 10
+num Left: 650 num stayed: 0 percent stayed: 0
+min left: 5.849999999999994 max left: 21.85median left: 14.599999999999994 mean left: 17.939584615384625
+min stayed: 0 max stayed: 0median stayed: 0 mean stayed: 0
+
+ERROR RADIUS: 4 PATH DISTANCE: 0
+num Left: 0 num stayed: 319 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.04999999999999716 max stayed: 8.129999999999999median stayed: 7.399999999999999 mean stayed: 5.0737304075235095
+
+ERROR RADIUS: 4 PATH DISTANCE: 1
+num Left: 0 num stayed: 1845 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.4199999999999946 max stayed: 9.959999999999999median stayed: 5.090000000000003 mean stayed: 6.629897018970178
+
+ERROR RADIUS: 4 PATH DISTANCE: 2
+num Left: 0 num stayed: 2960 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 1.1899999999999977 max stayed: 13.18median stayed: 8.149999999999991 mean stayed: 8.28648986486485
+
+ERROR RADIUS: 4 PATH DISTANCE: 3
+num Left: 0 num stayed: 4202 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 2.799999999999983 max stayed: 15.049999999999997median stayed: 7.469999999999999 mean stayed: 10.2743907663017
+
+ERROR RADIUS: 4 PATH DISTANCE: 4
+num Left: 0 num stayed: 615 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.300000000000011 max stayed: 16.97median stayed: 11.5 mean stayed: 12.005756097560987
+
+ERROR RADIUS: 4 PATH DISTANCE: 5
+num Left: 0 num stayed: 1294 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.719999999999999 max stayed: 18.229999999999997median stayed: 16.049999999999997 mean stayed: 13.023284389489941
+
+ERROR RADIUS: 4 PATH DISTANCE: 6
+num Left: 0 num stayed: 2646 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.900000000000006 max stayed: 18.379999999999995median stayed: 14.859999999999985 mean stayed: 13.606092214663644
+
+ERROR RADIUS: 4 PATH DISTANCE: 7
+num Left: 0 num stayed: 6110 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.25 max stayed: 20.639999999999986median stayed: 14.300000000000011 mean stayed: 15.548011456628512
+
+ERROR RADIUS: 4 PATH DISTANCE: 8
+num Left: 0 num stayed: 584 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 3.6000000000000014 max stayed: 20.289999999999992median stayed: 20.150000000000006 mean stayed: 17.42164383561644
+
+ERROR RADIUS: 4 PATH DISTANCE: 9
+num Left: 325 num stayed: 179 percent stayed: 0.3551587301587302
+min left: 5.900000000000006 max left: 21.85median left: 12.950000000000003 mean left: 17.192615384615376
+min stayed: 9.399999999999977 max stayed: 20.899999999999977median stayed: 16.44999999999999 mean stayed: 16.318379888268144
+
+ERROR RADIUS: 4 PATH DISTANCE: 10
+num Left: 173 num stayed: 477 percent stayed: 0.7338461538461538
+min left: 14.700000000000003 max left: 21.85median left: 17.400000000000006 mean left: 18.752601156069364
+min stayed: 5.849999999999994 max stayed: 21.35median stayed: 18.950000000000017 mean stayed: 17.64471698113208
+
+ERROR RADIUS: 4.25 PATH DISTANCE: 0
+num Left: 0 num stayed: 319 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.04999999999999716 max stayed: 8.129999999999999median stayed: 7.399999999999999 mean stayed: 5.0737304075235095
+
+ERROR RADIUS: 4.25 PATH DISTANCE: 1
+num Left: 0 num stayed: 1845 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.4199999999999946 max stayed: 9.959999999999999median stayed: 5.090000000000003 mean stayed: 6.629897018970178
+
+ERROR RADIUS: 4.25 PATH DISTANCE: 2
+num Left: 0 num stayed: 2960 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 1.1899999999999977 max stayed: 13.18median stayed: 8.149999999999991 mean stayed: 8.28648986486485
+
+ERROR RADIUS: 4.25 PATH DISTANCE: 3
+num Left: 0 num stayed: 4202 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 2.799999999999983 max stayed: 15.049999999999997median stayed: 7.469999999999999 mean stayed: 10.2743907663017
+
+ERROR RADIUS: 4.25 PATH DISTANCE: 4
+num Left: 0 num stayed: 615 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.300000000000011 max stayed: 16.97median stayed: 11.5 mean stayed: 12.005756097560987
+
+ERROR RADIUS: 4.25 PATH DISTANCE: 5
+num Left: 0 num stayed: 1294 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.719999999999999 max stayed: 18.229999999999997median stayed: 16.049999999999997 mean stayed: 13.023284389489941
+
+ERROR RADIUS: 4.25 PATH DISTANCE: 6
+num Left: 0 num stayed: 2646 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.900000000000006 max stayed: 18.379999999999995median stayed: 14.859999999999985 mean stayed: 13.606092214663644
+
+ERROR RADIUS: 4.25 PATH DISTANCE: 7
+num Left: 0 num stayed: 6110 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.25 max stayed: 20.639999999999986median stayed: 14.300000000000011 mean stayed: 15.548011456628512
+
+ERROR RADIUS: 4.25 PATH DISTANCE: 8
+num Left: 0 num stayed: 584 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 3.6000000000000014 max stayed: 20.289999999999992median stayed: 20.150000000000006 mean stayed: 17.42164383561644
+
+ERROR RADIUS: 4.25 PATH DISTANCE: 9
+num Left: 154 num stayed: 350 percent stayed: 0.6944444444444444
+min left: 13.8 max left: 21.85median left: 17.6 mean left: 17.648376623376617
+min stayed: 5.900000000000006 max stayed: 21.049999999999997median stayed: 9.549999999999983 mean stayed: 16.544971428571426
+
+ERROR RADIUS: 4.25 PATH DISTANCE: 10
+num Left: 173 num stayed: 477 percent stayed: 0.7338461538461538
+min left: 14.700000000000003 max left: 21.85median left: 17.400000000000006 mean left: 18.752601156069364
+min stayed: 5.849999999999994 max stayed: 21.35median stayed: 18.950000000000017 mean stayed: 17.64471698113208
+
+ERROR RADIUS: 4.5 PATH DISTANCE: 0
+num Left: 0 num stayed: 319 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.04999999999999716 max stayed: 8.129999999999999median stayed: 7.399999999999999 mean stayed: 5.0737304075235095
+
+ERROR RADIUS: 4.5 PATH DISTANCE: 1
+num Left: 0 num stayed: 1845 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.4199999999999946 max stayed: 9.959999999999999median stayed: 5.090000000000003 mean stayed: 6.629897018970178
+
+ERROR RADIUS: 4.5 PATH DISTANCE: 2
+num Left: 0 num stayed: 2960 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 1.1899999999999977 max stayed: 13.18median stayed: 8.149999999999991 mean stayed: 8.28648986486485
+
+ERROR RADIUS: 4.5 PATH DISTANCE: 3
+num Left: 0 num stayed: 4202 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 2.799999999999983 max stayed: 15.049999999999997median stayed: 7.469999999999999 mean stayed: 10.2743907663017
+
+ERROR RADIUS: 4.5 PATH DISTANCE: 4
+num Left: 0 num stayed: 615 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.300000000000011 max stayed: 16.97median stayed: 11.5 mean stayed: 12.005756097560987
+
+ERROR RADIUS: 4.5 PATH DISTANCE: 5
+num Left: 0 num stayed: 1294 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.719999999999999 max stayed: 18.229999999999997median stayed: 16.049999999999997 mean stayed: 13.023284389489941
+
+ERROR RADIUS: 4.5 PATH DISTANCE: 6
+num Left: 0 num stayed: 2646 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.900000000000006 max stayed: 18.379999999999995median stayed: 14.859999999999985 mean stayed: 13.606092214663644
+
+ERROR RADIUS: 4.5 PATH DISTANCE: 7
+num Left: 0 num stayed: 6110 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.25 max stayed: 20.639999999999986median stayed: 14.300000000000011 mean stayed: 15.548011456628512
+
+ERROR RADIUS: 4.5 PATH DISTANCE: 8
+num Left: 0 num stayed: 584 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 3.6000000000000014 max stayed: 20.289999999999992median stayed: 20.150000000000006 mean stayed: 17.42164383561644
+
+ERROR RADIUS: 4.5 PATH DISTANCE: 9
+num Left: 0 num stayed: 504 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.900000000000006 max stayed: 21.85median stayed: 17.400000000000006 mean stayed: 16.882123015873013
+
+ERROR RADIUS: 4.5 PATH DISTANCE: 10
+num Left: 0 num stayed: 650 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.849999999999994 max stayed: 21.85median stayed: 14.599999999999994 mean stayed: 17.939584615384625
+
+ERROR RADIUS: 4.75 PATH DISTANCE: 0
+num Left: 0 num stayed: 319 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.04999999999999716 max stayed: 8.129999999999999median stayed: 7.399999999999999 mean stayed: 5.0737304075235095
+
+ERROR RADIUS: 4.75 PATH DISTANCE: 1
+num Left: 0 num stayed: 1845 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.4199999999999946 max stayed: 9.959999999999999median stayed: 5.090000000000003 mean stayed: 6.629897018970178
+
+ERROR RADIUS: 4.75 PATH DISTANCE: 2
+num Left: 0 num stayed: 2960 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 1.1899999999999977 max stayed: 13.18median stayed: 8.149999999999991 mean stayed: 8.28648986486485
+
+ERROR RADIUS: 4.75 PATH DISTANCE: 3
+num Left: 0 num stayed: 4202 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 2.799999999999983 max stayed: 15.049999999999997median stayed: 7.469999999999999 mean stayed: 10.2743907663017
+
+ERROR RADIUS: 4.75 PATH DISTANCE: 4
+num Left: 0 num stayed: 615 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.300000000000011 max stayed: 16.97median stayed: 11.5 mean stayed: 12.005756097560987
+
+ERROR RADIUS: 4.75 PATH DISTANCE: 5
+num Left: 0 num stayed: 1294 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.719999999999999 max stayed: 18.229999999999997median stayed: 16.049999999999997 mean stayed: 13.023284389489941
+
+ERROR RADIUS: 4.75 PATH DISTANCE: 6
+num Left: 0 num stayed: 2646 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.900000000000006 max stayed: 18.379999999999995median stayed: 14.859999999999985 mean stayed: 13.606092214663644
+
+ERROR RADIUS: 4.75 PATH DISTANCE: 7
+num Left: 0 num stayed: 6110 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.25 max stayed: 20.639999999999986median stayed: 14.300000000000011 mean stayed: 15.548011456628512
+
+ERROR RADIUS: 4.75 PATH DISTANCE: 8
+num Left: 0 num stayed: 584 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 3.6000000000000014 max stayed: 20.289999999999992median stayed: 20.150000000000006 mean stayed: 17.42164383561644
+
+ERROR RADIUS: 4.75 PATH DISTANCE: 9
+num Left: 0 num stayed: 504 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.900000000000006 max stayed: 21.85median stayed: 17.400000000000006 mean stayed: 16.882123015873013
+
+ERROR RADIUS: 4.75 PATH DISTANCE: 10
+num Left: 0 num stayed: 650 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.849999999999994 max stayed: 21.85median stayed: 14.599999999999994 mean stayed: 17.939584615384625
+
+ERROR RADIUS: 5 PATH DISTANCE: 0
+num Left: 0 num stayed: 319 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.04999999999999716 max stayed: 8.129999999999999median stayed: 7.399999999999999 mean stayed: 5.0737304075235095
+
+ERROR RADIUS: 5 PATH DISTANCE: 1
+num Left: 0 num stayed: 1845 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.4199999999999946 max stayed: 9.959999999999999median stayed: 5.090000000000003 mean stayed: 6.629897018970178
+
+ERROR RADIUS: 5 PATH DISTANCE: 2
+num Left: 0 num stayed: 2960 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 1.1899999999999977 max stayed: 13.18median stayed: 8.149999999999991 mean stayed: 8.28648986486485
+
+ERROR RADIUS: 5 PATH DISTANCE: 3
+num Left: 0 num stayed: 4202 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 2.799999999999983 max stayed: 15.049999999999997median stayed: 7.469999999999999 mean stayed: 10.2743907663017
+
+ERROR RADIUS: 5 PATH DISTANCE: 4
+num Left: 0 num stayed: 615 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.300000000000011 max stayed: 16.97median stayed: 11.5 mean stayed: 12.005756097560987
+
+ERROR RADIUS: 5 PATH DISTANCE: 5
+num Left: 0 num stayed: 1294 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.719999999999999 max stayed: 18.229999999999997median stayed: 16.049999999999997 mean stayed: 13.023284389489941
+
+ERROR RADIUS: 5 PATH DISTANCE: 6
+num Left: 0 num stayed: 2646 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.900000000000006 max stayed: 18.379999999999995median stayed: 14.859999999999985 mean stayed: 13.606092214663644
+
+ERROR RADIUS: 5 PATH DISTANCE: 7
+num Left: 0 num stayed: 6110 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.25 max stayed: 20.639999999999986median stayed: 14.300000000000011 mean stayed: 15.548011456628512
+
+ERROR RADIUS: 5 PATH DISTANCE: 8
+num Left: 0 num stayed: 584 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 3.6000000000000014 max stayed: 20.289999999999992median stayed: 20.150000000000006 mean stayed: 17.42164383561644
+
+ERROR RADIUS: 5 PATH DISTANCE: 9
+num Left: 0 num stayed: 504 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.900000000000006 max stayed: 21.85median stayed: 17.400000000000006 mean stayed: 16.882123015873013
+
+ERROR RADIUS: 5 PATH DISTANCE: 10
+num Left: 0 num stayed: 650 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.849999999999994 max stayed: 21.85median stayed: 14.599999999999994 mean stayed: 17.939584615384625
+
+ERROR RADIUS: 5.25 PATH DISTANCE: 0
+num Left: 0 num stayed: 319 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.04999999999999716 max stayed: 8.129999999999999median stayed: 7.399999999999999 mean stayed: 5.0737304075235095
+
+ERROR RADIUS: 5.25 PATH DISTANCE: 1
+num Left: 0 num stayed: 1845 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.4199999999999946 max stayed: 9.959999999999999median stayed: 5.090000000000003 mean stayed: 6.629897018970178
+
+ERROR RADIUS: 5.25 PATH DISTANCE: 2
+num Left: 0 num stayed: 2960 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 1.1899999999999977 max stayed: 13.18median stayed: 8.149999999999991 mean stayed: 8.28648986486485
+
+ERROR RADIUS: 5.25 PATH DISTANCE: 3
+num Left: 0 num stayed: 4202 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 2.799999999999983 max stayed: 15.049999999999997median stayed: 7.469999999999999 mean stayed: 10.2743907663017
+
+ERROR RADIUS: 5.25 PATH DISTANCE: 4
+num Left: 0 num stayed: 615 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.300000000000011 max stayed: 16.97median stayed: 11.5 mean stayed: 12.005756097560987
+
+ERROR RADIUS: 5.25 PATH DISTANCE: 5
+num Left: 0 num stayed: 1294 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.719999999999999 max stayed: 18.229999999999997median stayed: 16.049999999999997 mean stayed: 13.023284389489941
+
+ERROR RADIUS: 5.25 PATH DISTANCE: 6
+num Left: 0 num stayed: 2646 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.900000000000006 max stayed: 18.379999999999995median stayed: 14.859999999999985 mean stayed: 13.606092214663644
+
+ERROR RADIUS: 5.25 PATH DISTANCE: 7
+num Left: 0 num stayed: 6110 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.25 max stayed: 20.639999999999986median stayed: 14.300000000000011 mean stayed: 15.548011456628512
+
+ERROR RADIUS: 5.25 PATH DISTANCE: 8
+num Left: 0 num stayed: 584 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 3.6000000000000014 max stayed: 20.289999999999992median stayed: 20.150000000000006 mean stayed: 17.42164383561644
+
+ERROR RADIUS: 5.25 PATH DISTANCE: 9
+num Left: 0 num stayed: 504 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.900000000000006 max stayed: 21.85median stayed: 17.400000000000006 mean stayed: 16.882123015873013
+
+ERROR RADIUS: 5.25 PATH DISTANCE: 10
+num Left: 0 num stayed: 650 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.849999999999994 max stayed: 21.85median stayed: 14.599999999999994 mean stayed: 17.939584615384625
+
+ERROR RADIUS: 5.5 PATH DISTANCE: 0
+num Left: 0 num stayed: 319 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.04999999999999716 max stayed: 8.129999999999999median stayed: 7.399999999999999 mean stayed: 5.0737304075235095
+
+ERROR RADIUS: 5.5 PATH DISTANCE: 1
+num Left: 0 num stayed: 1845 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.4199999999999946 max stayed: 9.959999999999999median stayed: 5.090000000000003 mean stayed: 6.629897018970178
+
+ERROR RADIUS: 5.5 PATH DISTANCE: 2
+num Left: 0 num stayed: 2960 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 1.1899999999999977 max stayed: 13.18median stayed: 8.149999999999991 mean stayed: 8.28648986486485
+
+ERROR RADIUS: 5.5 PATH DISTANCE: 3
+num Left: 0 num stayed: 4202 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 2.799999999999983 max stayed: 15.049999999999997median stayed: 7.469999999999999 mean stayed: 10.2743907663017
+
+ERROR RADIUS: 5.5 PATH DISTANCE: 4
+num Left: 0 num stayed: 615 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.300000000000011 max stayed: 16.97median stayed: 11.5 mean stayed: 12.005756097560987
+
+ERROR RADIUS: 5.5 PATH DISTANCE: 5
+num Left: 0 num stayed: 1294 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.719999999999999 max stayed: 18.229999999999997median stayed: 16.049999999999997 mean stayed: 13.023284389489941
+
+ERROR RADIUS: 5.5 PATH DISTANCE: 6
+num Left: 0 num stayed: 2646 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.900000000000006 max stayed: 18.379999999999995median stayed: 14.859999999999985 mean stayed: 13.606092214663644
+
+ERROR RADIUS: 5.5 PATH DISTANCE: 7
+num Left: 0 num stayed: 6110 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.25 max stayed: 20.639999999999986median stayed: 14.300000000000011 mean stayed: 15.548011456628512
+
+ERROR RADIUS: 5.5 PATH DISTANCE: 8
+num Left: 0 num stayed: 584 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 3.6000000000000014 max stayed: 20.289999999999992median stayed: 20.150000000000006 mean stayed: 17.42164383561644
+
+ERROR RADIUS: 5.5 PATH DISTANCE: 9
+num Left: 0 num stayed: 504 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.900000000000006 max stayed: 21.85median stayed: 17.400000000000006 mean stayed: 16.882123015873013
+
+ERROR RADIUS: 5.5 PATH DISTANCE: 10
+num Left: 0 num stayed: 650 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.849999999999994 max stayed: 21.85median stayed: 14.599999999999994 mean stayed: 17.939584615384625
+
+ERROR RADIUS: 5.75 PATH DISTANCE: 0
+num Left: 0 num stayed: 319 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.04999999999999716 max stayed: 8.129999999999999median stayed: 7.399999999999999 mean stayed: 5.0737304075235095
+
+ERROR RADIUS: 5.75 PATH DISTANCE: 1
+num Left: 0 num stayed: 1845 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.4199999999999946 max stayed: 9.959999999999999median stayed: 5.090000000000003 mean stayed: 6.629897018970178
+
+ERROR RADIUS: 5.75 PATH DISTANCE: 2
+num Left: 0 num stayed: 2960 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 1.1899999999999977 max stayed: 13.18median stayed: 8.149999999999991 mean stayed: 8.28648986486485
+
+ERROR RADIUS: 5.75 PATH DISTANCE: 3
+num Left: 0 num stayed: 4202 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 2.799999999999983 max stayed: 15.049999999999997median stayed: 7.469999999999999 mean stayed: 10.2743907663017
+
+ERROR RADIUS: 5.75 PATH DISTANCE: 4
+num Left: 0 num stayed: 615 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.300000000000011 max stayed: 16.97median stayed: 11.5 mean stayed: 12.005756097560987
+
+ERROR RADIUS: 5.75 PATH DISTANCE: 5
+num Left: 0 num stayed: 1294 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.719999999999999 max stayed: 18.229999999999997median stayed: 16.049999999999997 mean stayed: 13.023284389489941
+
+ERROR RADIUS: 5.75 PATH DISTANCE: 6
+num Left: 0 num stayed: 2646 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.900000000000006 max stayed: 18.379999999999995median stayed: 14.859999999999985 mean stayed: 13.606092214663644
+
+ERROR RADIUS: 5.75 PATH DISTANCE: 7
+num Left: 0 num stayed: 6110 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.25 max stayed: 20.639999999999986median stayed: 14.300000000000011 mean stayed: 15.548011456628512
+
+ERROR RADIUS: 5.75 PATH DISTANCE: 8
+num Left: 0 num stayed: 584 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 3.6000000000000014 max stayed: 20.289999999999992median stayed: 20.150000000000006 mean stayed: 17.42164383561644
+
+ERROR RADIUS: 5.75 PATH DISTANCE: 9
+num Left: 0 num stayed: 504 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.900000000000006 max stayed: 21.85median stayed: 17.400000000000006 mean stayed: 16.882123015873013
+
+ERROR RADIUS: 5.75 PATH DISTANCE: 10
+num Left: 0 num stayed: 650 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.849999999999994 max stayed: 21.85median stayed: 14.599999999999994 mean stayed: 17.939584615384625
+
+ERROR RADIUS: 6 PATH DISTANCE: 0
+num Left: 0 num stayed: 319 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.04999999999999716 max stayed: 8.129999999999999median stayed: 7.399999999999999 mean stayed: 5.0737304075235095
+
+ERROR RADIUS: 6 PATH DISTANCE: 1
+num Left: 0 num stayed: 1845 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.4199999999999946 max stayed: 9.959999999999999median stayed: 5.090000000000003 mean stayed: 6.629897018970178
+
+ERROR RADIUS: 6 PATH DISTANCE: 2
+num Left: 0 num stayed: 2960 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 1.1899999999999977 max stayed: 13.18median stayed: 8.149999999999991 mean stayed: 8.28648986486485
+
+ERROR RADIUS: 6 PATH DISTANCE: 3
+num Left: 0 num stayed: 4202 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 2.799999999999983 max stayed: 15.049999999999997median stayed: 7.469999999999999 mean stayed: 10.2743907663017
+
+ERROR RADIUS: 6 PATH DISTANCE: 4
+num Left: 0 num stayed: 615 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.300000000000011 max stayed: 16.97median stayed: 11.5 mean stayed: 12.005756097560987
+
+ERROR RADIUS: 6 PATH DISTANCE: 5
+num Left: 0 num stayed: 1294 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.719999999999999 max stayed: 18.229999999999997median stayed: 16.049999999999997 mean stayed: 13.023284389489941
+
+ERROR RADIUS: 6 PATH DISTANCE: 6
+num Left: 0 num stayed: 2646 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.900000000000006 max stayed: 18.379999999999995median stayed: 14.859999999999985 mean stayed: 13.606092214663644
+
+ERROR RADIUS: 6 PATH DISTANCE: 7
+num Left: 0 num stayed: 6110 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.25 max stayed: 20.639999999999986median stayed: 14.300000000000011 mean stayed: 15.548011456628512
+
+ERROR RADIUS: 6 PATH DISTANCE: 8
+num Left: 0 num stayed: 584 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 3.6000000000000014 max stayed: 20.289999999999992median stayed: 20.150000000000006 mean stayed: 17.42164383561644
+
+ERROR RADIUS: 6 PATH DISTANCE: 9
+num Left: 0 num stayed: 504 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.900000000000006 max stayed: 21.85median stayed: 17.400000000000006 mean stayed: 16.882123015873013
+
+ERROR RADIUS: 6 PATH DISTANCE: 10
+num Left: 0 num stayed: 650 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.849999999999994 max stayed: 21.85median stayed: 14.599999999999994 mean stayed: 17.939584615384625
+
+ERROR RADIUS: 6.25 PATH DISTANCE: 0
+num Left: 0 num stayed: 319 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.04999999999999716 max stayed: 8.129999999999999median stayed: 7.399999999999999 mean stayed: 5.0737304075235095
+
+ERROR RADIUS: 6.25 PATH DISTANCE: 1
+num Left: 0 num stayed: 1845 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.4199999999999946 max stayed: 9.959999999999999median stayed: 5.090000000000003 mean stayed: 6.629897018970178
+
+ERROR RADIUS: 6.25 PATH DISTANCE: 2
+num Left: 0 num stayed: 2960 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 1.1899999999999977 max stayed: 13.18median stayed: 8.149999999999991 mean stayed: 8.28648986486485
+
+ERROR RADIUS: 6.25 PATH DISTANCE: 3
+num Left: 0 num stayed: 4202 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 2.799999999999983 max stayed: 15.049999999999997median stayed: 7.469999999999999 mean stayed: 10.2743907663017
+
+ERROR RADIUS: 6.25 PATH DISTANCE: 4
+num Left: 0 num stayed: 615 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.300000000000011 max stayed: 16.97median stayed: 11.5 mean stayed: 12.005756097560987
+
+ERROR RADIUS: 6.25 PATH DISTANCE: 5
+num Left: 0 num stayed: 1294 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.719999999999999 max stayed: 18.229999999999997median stayed: 16.049999999999997 mean stayed: 13.023284389489941
+
+ERROR RADIUS: 6.25 PATH DISTANCE: 6
+num Left: 0 num stayed: 2646 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.900000000000006 max stayed: 18.379999999999995median stayed: 14.859999999999985 mean stayed: 13.606092214663644
+
+ERROR RADIUS: 6.25 PATH DISTANCE: 7
+num Left: 0 num stayed: 6110 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.25 max stayed: 20.639999999999986median stayed: 14.300000000000011 mean stayed: 15.548011456628512
+
+ERROR RADIUS: 6.25 PATH DISTANCE: 8
+num Left: 0 num stayed: 584 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 3.6000000000000014 max stayed: 20.289999999999992median stayed: 20.150000000000006 mean stayed: 17.42164383561644
+
+ERROR RADIUS: 6.25 PATH DISTANCE: 9
+num Left: 0 num stayed: 504 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.900000000000006 max stayed: 21.85median stayed: 17.400000000000006 mean stayed: 16.882123015873013
+
+ERROR RADIUS: 6.25 PATH DISTANCE: 10
+num Left: 0 num stayed: 650 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.849999999999994 max stayed: 21.85median stayed: 14.599999999999994 mean stayed: 17.939584615384625
+
+ERROR RADIUS: 6.5 PATH DISTANCE: 0
+num Left: 0 num stayed: 319 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.04999999999999716 max stayed: 8.129999999999999median stayed: 7.399999999999999 mean stayed: 5.0737304075235095
+
+ERROR RADIUS: 6.5 PATH DISTANCE: 1
+num Left: 0 num stayed: 1845 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.4199999999999946 max stayed: 9.959999999999999median stayed: 5.090000000000003 mean stayed: 6.629897018970178
+
+ERROR RADIUS: 6.5 PATH DISTANCE: 2
+num Left: 0 num stayed: 2960 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 1.1899999999999977 max stayed: 13.18median stayed: 8.149999999999991 mean stayed: 8.28648986486485
+
+ERROR RADIUS: 6.5 PATH DISTANCE: 3
+num Left: 0 num stayed: 4202 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 2.799999999999983 max stayed: 15.049999999999997median stayed: 7.469999999999999 mean stayed: 10.2743907663017
+
+ERROR RADIUS: 6.5 PATH DISTANCE: 4
+num Left: 0 num stayed: 615 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.300000000000011 max stayed: 16.97median stayed: 11.5 mean stayed: 12.005756097560987
+
+ERROR RADIUS: 6.5 PATH DISTANCE: 5
+num Left: 0 num stayed: 1294 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.719999999999999 max stayed: 18.229999999999997median stayed: 16.049999999999997 mean stayed: 13.023284389489941
+
+ERROR RADIUS: 6.5 PATH DISTANCE: 6
+num Left: 0 num stayed: 2646 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.900000000000006 max stayed: 18.379999999999995median stayed: 14.859999999999985 mean stayed: 13.606092214663644
+
+ERROR RADIUS: 6.5 PATH DISTANCE: 7
+num Left: 0 num stayed: 6110 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.25 max stayed: 20.639999999999986median stayed: 14.300000000000011 mean stayed: 15.548011456628512
+
+ERROR RADIUS: 6.5 PATH DISTANCE: 8
+num Left: 0 num stayed: 584 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 3.6000000000000014 max stayed: 20.289999999999992median stayed: 20.150000000000006 mean stayed: 17.42164383561644
+
+ERROR RADIUS: 6.5 PATH DISTANCE: 9
+num Left: 0 num stayed: 504 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.900000000000006 max stayed: 21.85median stayed: 17.400000000000006 mean stayed: 16.882123015873013
+
+ERROR RADIUS: 6.5 PATH DISTANCE: 10
+num Left: 0 num stayed: 650 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.849999999999994 max stayed: 21.85median stayed: 14.599999999999994 mean stayed: 17.939584615384625
+
+ERROR RADIUS: 6.75 PATH DISTANCE: 0
+num Left: 0 num stayed: 319 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.04999999999999716 max stayed: 8.129999999999999median stayed: 7.399999999999999 mean stayed: 5.0737304075235095
+
+ERROR RADIUS: 6.75 PATH DISTANCE: 1
+num Left: 0 num stayed: 1845 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.4199999999999946 max stayed: 9.959999999999999median stayed: 5.090000000000003 mean stayed: 6.629897018970178
+
+ERROR RADIUS: 6.75 PATH DISTANCE: 2
+num Left: 0 num stayed: 2960 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 1.1899999999999977 max stayed: 13.18median stayed: 8.149999999999991 mean stayed: 8.28648986486485
+
+ERROR RADIUS: 6.75 PATH DISTANCE: 3
+num Left: 0 num stayed: 4202 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 2.799999999999983 max stayed: 15.049999999999997median stayed: 7.469999999999999 mean stayed: 10.2743907663017
+
+ERROR RADIUS: 6.75 PATH DISTANCE: 4
+num Left: 0 num stayed: 615 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.300000000000011 max stayed: 16.97median stayed: 11.5 mean stayed: 12.005756097560987
+
+ERROR RADIUS: 6.75 PATH DISTANCE: 5
+num Left: 0 num stayed: 1294 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.719999999999999 max stayed: 18.229999999999997median stayed: 16.049999999999997 mean stayed: 13.023284389489941
+
+ERROR RADIUS: 6.75 PATH DISTANCE: 6
+num Left: 0 num stayed: 2646 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.900000000000006 max stayed: 18.379999999999995median stayed: 14.859999999999985 mean stayed: 13.606092214663644
+
+ERROR RADIUS: 6.75 PATH DISTANCE: 7
+num Left: 0 num stayed: 6110 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.25 max stayed: 20.639999999999986median stayed: 14.300000000000011 mean stayed: 15.548011456628512
+
+ERROR RADIUS: 6.75 PATH DISTANCE: 8
+num Left: 0 num stayed: 584 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 3.6000000000000014 max stayed: 20.289999999999992median stayed: 20.150000000000006 mean stayed: 17.42164383561644
+
+ERROR RADIUS: 6.75 PATH DISTANCE: 9
+num Left: 0 num stayed: 504 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.900000000000006 max stayed: 21.85median stayed: 17.400000000000006 mean stayed: 16.882123015873013
+
+ERROR RADIUS: 6.75 PATH DISTANCE: 10
+num Left: 0 num stayed: 650 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.849999999999994 max stayed: 21.85median stayed: 14.599999999999994 mean stayed: 17.939584615384625
+
+ERROR RADIUS: 7 PATH DISTANCE: 0
+num Left: 0 num stayed: 319 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.04999999999999716 max stayed: 8.129999999999999median stayed: 7.399999999999999 mean stayed: 5.0737304075235095
+
+ERROR RADIUS: 7 PATH DISTANCE: 1
+num Left: 0 num stayed: 1845 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.4199999999999946 max stayed: 9.959999999999999median stayed: 5.090000000000003 mean stayed: 6.629897018970178
+
+ERROR RADIUS: 7 PATH DISTANCE: 2
+num Left: 0 num stayed: 2960 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 1.1899999999999977 max stayed: 13.18median stayed: 8.149999999999991 mean stayed: 8.28648986486485
+
+ERROR RADIUS: 7 PATH DISTANCE: 3
+num Left: 0 num stayed: 4202 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 2.799999999999983 max stayed: 15.049999999999997median stayed: 7.469999999999999 mean stayed: 10.2743907663017
+
+ERROR RADIUS: 7 PATH DISTANCE: 4
+num Left: 0 num stayed: 615 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.300000000000011 max stayed: 16.97median stayed: 11.5 mean stayed: 12.005756097560987
+
+ERROR RADIUS: 7 PATH DISTANCE: 5
+num Left: 0 num stayed: 1294 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.719999999999999 max stayed: 18.229999999999997median stayed: 16.049999999999997 mean stayed: 13.023284389489941
+
+ERROR RADIUS: 7 PATH DISTANCE: 6
+num Left: 0 num stayed: 2646 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.900000000000006 max stayed: 18.379999999999995median stayed: 14.859999999999985 mean stayed: 13.606092214663644
+
+ERROR RADIUS: 7 PATH DISTANCE: 7
+num Left: 0 num stayed: 6110 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.25 max stayed: 20.639999999999986median stayed: 14.300000000000011 mean stayed: 15.548011456628512
+
+ERROR RADIUS: 7 PATH DISTANCE: 8
+num Left: 0 num stayed: 584 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 3.6000000000000014 max stayed: 20.289999999999992median stayed: 20.150000000000006 mean stayed: 17.42164383561644
+
+ERROR RADIUS: 7 PATH DISTANCE: 9
+num Left: 0 num stayed: 504 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.900000000000006 max stayed: 21.85median stayed: 17.400000000000006 mean stayed: 16.882123015873013
+
+ERROR RADIUS: 7 PATH DISTANCE: 10
+num Left: 0 num stayed: 650 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.849999999999994 max stayed: 21.85median stayed: 14.599999999999994 mean stayed: 17.939584615384625
+
+ERROR RADIUS: 7.25 PATH DISTANCE: 0
+num Left: 0 num stayed: 319 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.04999999999999716 max stayed: 8.129999999999999median stayed: 7.399999999999999 mean stayed: 5.0737304075235095
+
+ERROR RADIUS: 7.25 PATH DISTANCE: 1
+num Left: 0 num stayed: 1845 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.4199999999999946 max stayed: 9.959999999999999median stayed: 5.090000000000003 mean stayed: 6.629897018970178
+
+ERROR RADIUS: 7.25 PATH DISTANCE: 2
+num Left: 0 num stayed: 2960 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 1.1899999999999977 max stayed: 13.18median stayed: 8.149999999999991 mean stayed: 8.28648986486485
+
+ERROR RADIUS: 7.25 PATH DISTANCE: 3
+num Left: 0 num stayed: 4202 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 2.799999999999983 max stayed: 15.049999999999997median stayed: 7.469999999999999 mean stayed: 10.2743907663017
+
+ERROR RADIUS: 7.25 PATH DISTANCE: 4
+num Left: 0 num stayed: 615 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.300000000000011 max stayed: 16.97median stayed: 11.5 mean stayed: 12.005756097560987
+
+ERROR RADIUS: 7.25 PATH DISTANCE: 5
+num Left: 0 num stayed: 1294 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.719999999999999 max stayed: 18.229999999999997median stayed: 16.049999999999997 mean stayed: 13.023284389489941
+
+ERROR RADIUS: 7.25 PATH DISTANCE: 6
+num Left: 0 num stayed: 2646 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.900000000000006 max stayed: 18.379999999999995median stayed: 14.859999999999985 mean stayed: 13.606092214663644
+
+ERROR RADIUS: 7.25 PATH DISTANCE: 7
+num Left: 0 num stayed: 6110 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.25 max stayed: 20.639999999999986median stayed: 14.300000000000011 mean stayed: 15.548011456628512
+
+ERROR RADIUS: 7.25 PATH DISTANCE: 8
+num Left: 0 num stayed: 584 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 3.6000000000000014 max stayed: 20.289999999999992median stayed: 20.150000000000006 mean stayed: 17.42164383561644
+
+ERROR RADIUS: 7.25 PATH DISTANCE: 9
+num Left: 0 num stayed: 504 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.900000000000006 max stayed: 21.85median stayed: 17.400000000000006 mean stayed: 16.882123015873013
+
+ERROR RADIUS: 7.25 PATH DISTANCE: 10
+num Left: 0 num stayed: 650 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.849999999999994 max stayed: 21.85median stayed: 14.599999999999994 mean stayed: 17.939584615384625
+
+ERROR RADIUS: 7.5 PATH DISTANCE: 0
+num Left: 0 num stayed: 319 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.04999999999999716 max stayed: 8.129999999999999median stayed: 7.399999999999999 mean stayed: 5.0737304075235095
+
+ERROR RADIUS: 7.5 PATH DISTANCE: 1
+num Left: 0 num stayed: 1845 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.4199999999999946 max stayed: 9.959999999999999median stayed: 5.090000000000003 mean stayed: 6.629897018970178
+
+ERROR RADIUS: 7.5 PATH DISTANCE: 2
+num Left: 0 num stayed: 2960 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 1.1899999999999977 max stayed: 13.18median stayed: 8.149999999999991 mean stayed: 8.28648986486485
+
+ERROR RADIUS: 7.5 PATH DISTANCE: 3
+num Left: 0 num stayed: 4202 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 2.799999999999983 max stayed: 15.049999999999997median stayed: 7.469999999999999 mean stayed: 10.2743907663017
+
+ERROR RADIUS: 7.5 PATH DISTANCE: 4
+num Left: 0 num stayed: 615 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.300000000000011 max stayed: 16.97median stayed: 11.5 mean stayed: 12.005756097560987
+
+ERROR RADIUS: 7.5 PATH DISTANCE: 5
+num Left: 0 num stayed: 1294 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.719999999999999 max stayed: 18.229999999999997median stayed: 16.049999999999997 mean stayed: 13.023284389489941
+
+ERROR RADIUS: 7.5 PATH DISTANCE: 6
+num Left: 0 num stayed: 2646 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.900000000000006 max stayed: 18.379999999999995median stayed: 14.859999999999985 mean stayed: 13.606092214663644
+
+ERROR RADIUS: 7.5 PATH DISTANCE: 7
+num Left: 0 num stayed: 6110 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.25 max stayed: 20.639999999999986median stayed: 14.300000000000011 mean stayed: 15.548011456628512
+
+ERROR RADIUS: 7.5 PATH DISTANCE: 8
+num Left: 0 num stayed: 584 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 3.6000000000000014 max stayed: 20.289999999999992median stayed: 20.150000000000006 mean stayed: 17.42164383561644
+
+ERROR RADIUS: 7.5 PATH DISTANCE: 9
+num Left: 0 num stayed: 504 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.900000000000006 max stayed: 21.85median stayed: 17.400000000000006 mean stayed: 16.882123015873013
+
+ERROR RADIUS: 7.5 PATH DISTANCE: 10
+num Left: 0 num stayed: 650 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.849999999999994 max stayed: 21.85median stayed: 14.599999999999994 mean stayed: 17.939584615384625
+
+ERROR RADIUS: 7.75 PATH DISTANCE: 0
+num Left: 0 num stayed: 319 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.04999999999999716 max stayed: 8.129999999999999median stayed: 7.399999999999999 mean stayed: 5.0737304075235095
+
+ERROR RADIUS: 7.75 PATH DISTANCE: 1
+num Left: 0 num stayed: 1845 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.4199999999999946 max stayed: 9.959999999999999median stayed: 5.090000000000003 mean stayed: 6.629897018970178
+
+ERROR RADIUS: 7.75 PATH DISTANCE: 2
+num Left: 0 num stayed: 2960 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 1.1899999999999977 max stayed: 13.18median stayed: 8.149999999999991 mean stayed: 8.28648986486485
+
+ERROR RADIUS: 7.75 PATH DISTANCE: 3
+num Left: 0 num stayed: 4202 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 2.799999999999983 max stayed: 15.049999999999997median stayed: 7.469999999999999 mean stayed: 10.2743907663017
+
+ERROR RADIUS: 7.75 PATH DISTANCE: 4
+num Left: 0 num stayed: 615 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.300000000000011 max stayed: 16.97median stayed: 11.5 mean stayed: 12.005756097560987
+
+ERROR RADIUS: 7.75 PATH DISTANCE: 5
+num Left: 0 num stayed: 1294 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.719999999999999 max stayed: 18.229999999999997median stayed: 16.049999999999997 mean stayed: 13.023284389489941
+
+ERROR RADIUS: 7.75 PATH DISTANCE: 6
+num Left: 0 num stayed: 2646 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.900000000000006 max stayed: 18.379999999999995median stayed: 14.859999999999985 mean stayed: 13.606092214663644
+
+ERROR RADIUS: 7.75 PATH DISTANCE: 7
+num Left: 0 num stayed: 6110 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.25 max stayed: 20.639999999999986median stayed: 14.300000000000011 mean stayed: 15.548011456628512
+
+ERROR RADIUS: 7.75 PATH DISTANCE: 8
+num Left: 0 num stayed: 584 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 3.6000000000000014 max stayed: 20.289999999999992median stayed: 20.150000000000006 mean stayed: 17.42164383561644
+
+ERROR RADIUS: 7.75 PATH DISTANCE: 9
+num Left: 0 num stayed: 504 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.900000000000006 max stayed: 21.85median stayed: 17.400000000000006 mean stayed: 16.882123015873013
+
+ERROR RADIUS: 7.75 PATH DISTANCE: 10
+num Left: 0 num stayed: 650 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.849999999999994 max stayed: 21.85median stayed: 14.599999999999994 mean stayed: 17.939584615384625
+
+ERROR RADIUS: 8 PATH DISTANCE: 0
+num Left: 0 num stayed: 319 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.04999999999999716 max stayed: 8.129999999999999median stayed: 7.399999999999999 mean stayed: 5.0737304075235095
+
+ERROR RADIUS: 8 PATH DISTANCE: 1
+num Left: 0 num stayed: 1845 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.4199999999999946 max stayed: 9.959999999999999median stayed: 5.090000000000003 mean stayed: 6.629897018970178
+
+ERROR RADIUS: 8 PATH DISTANCE: 2
+num Left: 0 num stayed: 2960 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 1.1899999999999977 max stayed: 13.18median stayed: 8.149999999999991 mean stayed: 8.28648986486485
+
+ERROR RADIUS: 8 PATH DISTANCE: 3
+num Left: 0 num stayed: 4202 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 2.799999999999983 max stayed: 15.049999999999997median stayed: 7.469999999999999 mean stayed: 10.2743907663017
+
+ERROR RADIUS: 8 PATH DISTANCE: 4
+num Left: 0 num stayed: 615 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.300000000000011 max stayed: 16.97median stayed: 11.5 mean stayed: 12.005756097560987
+
+ERROR RADIUS: 8 PATH DISTANCE: 5
+num Left: 0 num stayed: 1294 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.719999999999999 max stayed: 18.229999999999997median stayed: 16.049999999999997 mean stayed: 13.023284389489941
+
+ERROR RADIUS: 8 PATH DISTANCE: 6
+num Left: 0 num stayed: 2646 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.900000000000006 max stayed: 18.379999999999995median stayed: 14.859999999999985 mean stayed: 13.606092214663644
+
+ERROR RADIUS: 8 PATH DISTANCE: 7
+num Left: 0 num stayed: 6110 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.25 max stayed: 20.639999999999986median stayed: 14.300000000000011 mean stayed: 15.548011456628512
+
+ERROR RADIUS: 8 PATH DISTANCE: 8
+num Left: 0 num stayed: 584 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 3.6000000000000014 max stayed: 20.289999999999992median stayed: 20.150000000000006 mean stayed: 17.42164383561644
+
+ERROR RADIUS: 8 PATH DISTANCE: 9
+num Left: 0 num stayed: 504 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.900000000000006 max stayed: 21.85median stayed: 17.400000000000006 mean stayed: 16.882123015873013
+
+ERROR RADIUS: 8 PATH DISTANCE: 10
+num Left: 0 num stayed: 650 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.849999999999994 max stayed: 21.85median stayed: 14.599999999999994 mean stayed: 17.939584615384625
+
+ERROR RADIUS: 8.25 PATH DISTANCE: 0
+num Left: 0 num stayed: 319 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.04999999999999716 max stayed: 8.129999999999999median stayed: 7.399999999999999 mean stayed: 5.0737304075235095
+
+ERROR RADIUS: 8.25 PATH DISTANCE: 1
+num Left: 0 num stayed: 1845 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.4199999999999946 max stayed: 9.959999999999999median stayed: 5.090000000000003 mean stayed: 6.629897018970178
+
+ERROR RADIUS: 8.25 PATH DISTANCE: 2
+num Left: 0 num stayed: 2960 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 1.1899999999999977 max stayed: 13.18median stayed: 8.149999999999991 mean stayed: 8.28648986486485
+
+ERROR RADIUS: 8.25 PATH DISTANCE: 3
+num Left: 0 num stayed: 4202 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 2.799999999999983 max stayed: 15.049999999999997median stayed: 7.469999999999999 mean stayed: 10.2743907663017
+
+ERROR RADIUS: 8.25 PATH DISTANCE: 4
+num Left: 0 num stayed: 615 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.300000000000011 max stayed: 16.97median stayed: 11.5 mean stayed: 12.005756097560987
+
+ERROR RADIUS: 8.25 PATH DISTANCE: 5
+num Left: 0 num stayed: 1294 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.719999999999999 max stayed: 18.229999999999997median stayed: 16.049999999999997 mean stayed: 13.023284389489941
+
+ERROR RADIUS: 8.25 PATH DISTANCE: 6
+num Left: 0 num stayed: 2646 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.900000000000006 max stayed: 18.379999999999995median stayed: 14.859999999999985 mean stayed: 13.606092214663644
+
+ERROR RADIUS: 8.25 PATH DISTANCE: 7
+num Left: 0 num stayed: 6110 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.25 max stayed: 20.639999999999986median stayed: 14.300000000000011 mean stayed: 15.548011456628512
+
+ERROR RADIUS: 8.25 PATH DISTANCE: 8
+num Left: 0 num stayed: 584 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 3.6000000000000014 max stayed: 20.289999999999992median stayed: 20.150000000000006 mean stayed: 17.42164383561644
+
+ERROR RADIUS: 8.25 PATH DISTANCE: 9
+num Left: 0 num stayed: 504 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.900000000000006 max stayed: 21.85median stayed: 17.400000000000006 mean stayed: 16.882123015873013
+
+ERROR RADIUS: 8.25 PATH DISTANCE: 10
+num Left: 0 num stayed: 650 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.849999999999994 max stayed: 21.85median stayed: 14.599999999999994 mean stayed: 17.939584615384625
+
+ERROR RADIUS: 8.5 PATH DISTANCE: 0
+num Left: 0 num stayed: 319 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.04999999999999716 max stayed: 8.129999999999999median stayed: 7.399999999999999 mean stayed: 5.0737304075235095
+
+ERROR RADIUS: 8.5 PATH DISTANCE: 1
+num Left: 0 num stayed: 1845 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.4199999999999946 max stayed: 9.959999999999999median stayed: 5.090000000000003 mean stayed: 6.629897018970178
+
+ERROR RADIUS: 8.5 PATH DISTANCE: 2
+num Left: 0 num stayed: 2960 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 1.1899999999999977 max stayed: 13.18median stayed: 8.149999999999991 mean stayed: 8.28648986486485
+
+ERROR RADIUS: 8.5 PATH DISTANCE: 3
+num Left: 0 num stayed: 4202 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 2.799999999999983 max stayed: 15.049999999999997median stayed: 7.469999999999999 mean stayed: 10.2743907663017
+
+ERROR RADIUS: 8.5 PATH DISTANCE: 4
+num Left: 0 num stayed: 615 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.300000000000011 max stayed: 16.97median stayed: 11.5 mean stayed: 12.005756097560987
+
+ERROR RADIUS: 8.5 PATH DISTANCE: 5
+num Left: 0 num stayed: 1294 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.719999999999999 max stayed: 18.229999999999997median stayed: 16.049999999999997 mean stayed: 13.023284389489941
+
+ERROR RADIUS: 8.5 PATH DISTANCE: 6
+num Left: 0 num stayed: 2646 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.900000000000006 max stayed: 18.379999999999995median stayed: 14.859999999999985 mean stayed: 13.606092214663644
+
+ERROR RADIUS: 8.5 PATH DISTANCE: 7
+num Left: 0 num stayed: 6110 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.25 max stayed: 20.639999999999986median stayed: 14.300000000000011 mean stayed: 15.548011456628512
+
+ERROR RADIUS: 8.5 PATH DISTANCE: 8
+num Left: 0 num stayed: 584 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 3.6000000000000014 max stayed: 20.289999999999992median stayed: 20.150000000000006 mean stayed: 17.42164383561644
+
+ERROR RADIUS: 8.5 PATH DISTANCE: 9
+num Left: 0 num stayed: 504 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.900000000000006 max stayed: 21.85median stayed: 17.400000000000006 mean stayed: 16.882123015873013
+
+ERROR RADIUS: 8.5 PATH DISTANCE: 10
+num Left: 0 num stayed: 650 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.849999999999994 max stayed: 21.85median stayed: 14.599999999999994 mean stayed: 17.939584615384625
+
+ERROR RADIUS: 8.75 PATH DISTANCE: 0
+num Left: 0 num stayed: 319 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.04999999999999716 max stayed: 8.129999999999999median stayed: 7.399999999999999 mean stayed: 5.0737304075235095
+
+ERROR RADIUS: 8.75 PATH DISTANCE: 1
+num Left: 0 num stayed: 1845 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.4199999999999946 max stayed: 9.959999999999999median stayed: 5.090000000000003 mean stayed: 6.629897018970178
+
+ERROR RADIUS: 8.75 PATH DISTANCE: 2
+num Left: 0 num stayed: 2960 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 1.1899999999999977 max stayed: 13.18median stayed: 8.149999999999991 mean stayed: 8.28648986486485
+
+ERROR RADIUS: 8.75 PATH DISTANCE: 3
+num Left: 0 num stayed: 4202 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 2.799999999999983 max stayed: 15.049999999999997median stayed: 7.469999999999999 mean stayed: 10.2743907663017
+
+ERROR RADIUS: 8.75 PATH DISTANCE: 4
+num Left: 0 num stayed: 615 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.300000000000011 max stayed: 16.97median stayed: 11.5 mean stayed: 12.005756097560987
+
+ERROR RADIUS: 8.75 PATH DISTANCE: 5
+num Left: 0 num stayed: 1294 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.719999999999999 max stayed: 18.229999999999997median stayed: 16.049999999999997 mean stayed: 13.023284389489941
+
+ERROR RADIUS: 8.75 PATH DISTANCE: 6
+num Left: 0 num stayed: 2646 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.900000000000006 max stayed: 18.379999999999995median stayed: 14.859999999999985 mean stayed: 13.606092214663644
+
+ERROR RADIUS: 8.75 PATH DISTANCE: 7
+num Left: 0 num stayed: 6110 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.25 max stayed: 20.639999999999986median stayed: 14.300000000000011 mean stayed: 15.548011456628512
+
+ERROR RADIUS: 8.75 PATH DISTANCE: 8
+num Left: 0 num stayed: 584 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 3.6000000000000014 max stayed: 20.289999999999992median stayed: 20.150000000000006 mean stayed: 17.42164383561644
+
+ERROR RADIUS: 8.75 PATH DISTANCE: 9
+num Left: 0 num stayed: 504 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.900000000000006 max stayed: 21.85median stayed: 17.400000000000006 mean stayed: 16.882123015873013
+
+ERROR RADIUS: 8.75 PATH DISTANCE: 10
+num Left: 0 num stayed: 650 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.849999999999994 max stayed: 21.85median stayed: 14.599999999999994 mean stayed: 17.939584615384625
+
+ERROR RADIUS: 9 PATH DISTANCE: 0
+num Left: 0 num stayed: 319 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.04999999999999716 max stayed: 8.129999999999999median stayed: 7.399999999999999 mean stayed: 5.0737304075235095
+
+ERROR RADIUS: 9 PATH DISTANCE: 1
+num Left: 0 num stayed: 1845 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.4199999999999946 max stayed: 9.959999999999999median stayed: 5.090000000000003 mean stayed: 6.629897018970178
+
+ERROR RADIUS: 9 PATH DISTANCE: 2
+num Left: 0 num stayed: 2960 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 1.1899999999999977 max stayed: 13.18median stayed: 8.149999999999991 mean stayed: 8.28648986486485
+
+ERROR RADIUS: 9 PATH DISTANCE: 3
+num Left: 0 num stayed: 4202 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 2.799999999999983 max stayed: 15.049999999999997median stayed: 7.469999999999999 mean stayed: 10.2743907663017
+
+ERROR RADIUS: 9 PATH DISTANCE: 4
+num Left: 0 num stayed: 615 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.300000000000011 max stayed: 16.97median stayed: 11.5 mean stayed: 12.005756097560987
+
+ERROR RADIUS: 9 PATH DISTANCE: 5
+num Left: 0 num stayed: 1294 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.719999999999999 max stayed: 18.229999999999997median stayed: 16.049999999999997 mean stayed: 13.023284389489941
+
+ERROR RADIUS: 9 PATH DISTANCE: 6
+num Left: 0 num stayed: 2646 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.900000000000006 max stayed: 18.379999999999995median stayed: 14.859999999999985 mean stayed: 13.606092214663644
+
+ERROR RADIUS: 9 PATH DISTANCE: 7
+num Left: 0 num stayed: 6110 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.25 max stayed: 20.639999999999986median stayed: 14.300000000000011 mean stayed: 15.548011456628512
+
+ERROR RADIUS: 9 PATH DISTANCE: 8
+num Left: 0 num stayed: 584 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 3.6000000000000014 max stayed: 20.289999999999992median stayed: 20.150000000000006 mean stayed: 17.42164383561644
+
+ERROR RADIUS: 9 PATH DISTANCE: 9
+num Left: 0 num stayed: 504 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.900000000000006 max stayed: 21.85median stayed: 17.400000000000006 mean stayed: 16.882123015873013
+
+ERROR RADIUS: 9 PATH DISTANCE: 10
+num Left: 0 num stayed: 650 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.849999999999994 max stayed: 21.85median stayed: 14.599999999999994 mean stayed: 17.939584615384625
+
+ERROR RADIUS: 9.25 PATH DISTANCE: 0
+num Left: 0 num stayed: 319 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.04999999999999716 max stayed: 8.129999999999999median stayed: 7.399999999999999 mean stayed: 5.0737304075235095
+
+ERROR RADIUS: 9.25 PATH DISTANCE: 1
+num Left: 0 num stayed: 1845 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.4199999999999946 max stayed: 9.959999999999999median stayed: 5.090000000000003 mean stayed: 6.629897018970178
+
+ERROR RADIUS: 9.25 PATH DISTANCE: 2
+num Left: 0 num stayed: 2960 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 1.1899999999999977 max stayed: 13.18median stayed: 8.149999999999991 mean stayed: 8.28648986486485
+
+ERROR RADIUS: 9.25 PATH DISTANCE: 3
+num Left: 0 num stayed: 4202 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 2.799999999999983 max stayed: 15.049999999999997median stayed: 7.469999999999999 mean stayed: 10.2743907663017
+
+ERROR RADIUS: 9.25 PATH DISTANCE: 4
+num Left: 0 num stayed: 615 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.300000000000011 max stayed: 16.97median stayed: 11.5 mean stayed: 12.005756097560987
+
+ERROR RADIUS: 9.25 PATH DISTANCE: 5
+num Left: 0 num stayed: 1294 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.719999999999999 max stayed: 18.229999999999997median stayed: 16.049999999999997 mean stayed: 13.023284389489941
+
+ERROR RADIUS: 9.25 PATH DISTANCE: 6
+num Left: 0 num stayed: 2646 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.900000000000006 max stayed: 18.379999999999995median stayed: 14.859999999999985 mean stayed: 13.606092214663644
+
+ERROR RADIUS: 9.25 PATH DISTANCE: 7
+num Left: 0 num stayed: 6110 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.25 max stayed: 20.639999999999986median stayed: 14.300000000000011 mean stayed: 15.548011456628512
+
+ERROR RADIUS: 9.25 PATH DISTANCE: 8
+num Left: 0 num stayed: 584 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 3.6000000000000014 max stayed: 20.289999999999992median stayed: 20.150000000000006 mean stayed: 17.42164383561644
+
+ERROR RADIUS: 9.25 PATH DISTANCE: 9
+num Left: 0 num stayed: 504 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.900000000000006 max stayed: 21.85median stayed: 17.400000000000006 mean stayed: 16.882123015873013
+
+ERROR RADIUS: 9.25 PATH DISTANCE: 10
+num Left: 0 num stayed: 650 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.849999999999994 max stayed: 21.85median stayed: 14.599999999999994 mean stayed: 17.939584615384625
+
+ERROR RADIUS: 9.5 PATH DISTANCE: 0
+num Left: 0 num stayed: 319 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.04999999999999716 max stayed: 8.129999999999999median stayed: 7.399999999999999 mean stayed: 5.0737304075235095
+
+ERROR RADIUS: 9.5 PATH DISTANCE: 1
+num Left: 0 num stayed: 1845 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.4199999999999946 max stayed: 9.959999999999999median stayed: 5.090000000000003 mean stayed: 6.629897018970178
+
+ERROR RADIUS: 9.5 PATH DISTANCE: 2
+num Left: 0 num stayed: 2960 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 1.1899999999999977 max stayed: 13.18median stayed: 8.149999999999991 mean stayed: 8.28648986486485
+
+ERROR RADIUS: 9.5 PATH DISTANCE: 3
+num Left: 0 num stayed: 4202 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 2.799999999999983 max stayed: 15.049999999999997median stayed: 7.469999999999999 mean stayed: 10.2743907663017
+
+ERROR RADIUS: 9.5 PATH DISTANCE: 4
+num Left: 0 num stayed: 615 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.300000000000011 max stayed: 16.97median stayed: 11.5 mean stayed: 12.005756097560987
+
+ERROR RADIUS: 9.5 PATH DISTANCE: 5
+num Left: 0 num stayed: 1294 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.719999999999999 max stayed: 18.229999999999997median stayed: 16.049999999999997 mean stayed: 13.023284389489941
+
+ERROR RADIUS: 9.5 PATH DISTANCE: 6
+num Left: 0 num stayed: 2646 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.900000000000006 max stayed: 18.379999999999995median stayed: 14.859999999999985 mean stayed: 13.606092214663644
+
+ERROR RADIUS: 9.5 PATH DISTANCE: 7
+num Left: 0 num stayed: 6110 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.25 max stayed: 20.639999999999986median stayed: 14.300000000000011 mean stayed: 15.548011456628512
+
+ERROR RADIUS: 9.5 PATH DISTANCE: 8
+num Left: 0 num stayed: 584 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 3.6000000000000014 max stayed: 20.289999999999992median stayed: 20.150000000000006 mean stayed: 17.42164383561644
+
+ERROR RADIUS: 9.5 PATH DISTANCE: 9
+num Left: 0 num stayed: 504 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.900000000000006 max stayed: 21.85median stayed: 17.400000000000006 mean stayed: 16.882123015873013
+
+ERROR RADIUS: 9.5 PATH DISTANCE: 10
+num Left: 0 num stayed: 650 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.849999999999994 max stayed: 21.85median stayed: 14.599999999999994 mean stayed: 17.939584615384625
+
+ERROR RADIUS: 9.75 PATH DISTANCE: 0
+num Left: 0 num stayed: 319 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.04999999999999716 max stayed: 8.129999999999999median stayed: 7.399999999999999 mean stayed: 5.0737304075235095
+
+ERROR RADIUS: 9.75 PATH DISTANCE: 1
+num Left: 0 num stayed: 1845 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.4199999999999946 max stayed: 9.959999999999999median stayed: 5.090000000000003 mean stayed: 6.629897018970178
+
+ERROR RADIUS: 9.75 PATH DISTANCE: 2
+num Left: 0 num stayed: 2960 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 1.1899999999999977 max stayed: 13.18median stayed: 8.149999999999991 mean stayed: 8.28648986486485
+
+ERROR RADIUS: 9.75 PATH DISTANCE: 3
+num Left: 0 num stayed: 4202 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 2.799999999999983 max stayed: 15.049999999999997median stayed: 7.469999999999999 mean stayed: 10.2743907663017
+
+ERROR RADIUS: 9.75 PATH DISTANCE: 4
+num Left: 0 num stayed: 615 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.300000000000011 max stayed: 16.97median stayed: 11.5 mean stayed: 12.005756097560987
+
+ERROR RADIUS: 9.75 PATH DISTANCE: 5
+num Left: 0 num stayed: 1294 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.719999999999999 max stayed: 18.229999999999997median stayed: 16.049999999999997 mean stayed: 13.023284389489941
+
+ERROR RADIUS: 9.75 PATH DISTANCE: 6
+num Left: 0 num stayed: 2646 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.900000000000006 max stayed: 18.379999999999995median stayed: 14.859999999999985 mean stayed: 13.606092214663644
+
+ERROR RADIUS: 9.75 PATH DISTANCE: 7
+num Left: 0 num stayed: 6110 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.25 max stayed: 20.639999999999986median stayed: 14.300000000000011 mean stayed: 15.548011456628512
+
+ERROR RADIUS: 9.75 PATH DISTANCE: 8
+num Left: 0 num stayed: 584 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 3.6000000000000014 max stayed: 20.289999999999992median stayed: 20.150000000000006 mean stayed: 17.42164383561644
+
+ERROR RADIUS: 9.75 PATH DISTANCE: 9
+num Left: 0 num stayed: 504 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.900000000000006 max stayed: 21.85median stayed: 17.400000000000006 mean stayed: 16.882123015873013
+
+ERROR RADIUS: 9.75 PATH DISTANCE: 10
+num Left: 0 num stayed: 650 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.849999999999994 max stayed: 21.85median stayed: 14.599999999999994 mean stayed: 17.939584615384625
+
+ERROR RADIUS: 10 PATH DISTANCE: 0
+num Left: 0 num stayed: 319 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.04999999999999716 max stayed: 8.129999999999999median stayed: 7.399999999999999 mean stayed: 5.0737304075235095
+
+ERROR RADIUS: 10 PATH DISTANCE: 1
+num Left: 0 num stayed: 1845 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.4199999999999946 max stayed: 9.959999999999999median stayed: 5.090000000000003 mean stayed: 6.629897018970178
+
+ERROR RADIUS: 10 PATH DISTANCE: 2
+num Left: 0 num stayed: 2960 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 1.1899999999999977 max stayed: 13.18median stayed: 8.149999999999991 mean stayed: 8.28648986486485
+
+ERROR RADIUS: 10 PATH DISTANCE: 3
+num Left: 0 num stayed: 4202 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 2.799999999999983 max stayed: 15.049999999999997median stayed: 7.469999999999999 mean stayed: 10.2743907663017
+
+ERROR RADIUS: 10 PATH DISTANCE: 4
+num Left: 0 num stayed: 615 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.300000000000011 max stayed: 16.97median stayed: 11.5 mean stayed: 12.005756097560987
+
+ERROR RADIUS: 10 PATH DISTANCE: 5
+num Left: 0 num stayed: 1294 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.719999999999999 max stayed: 18.229999999999997median stayed: 16.049999999999997 mean stayed: 13.023284389489941
+
+ERROR RADIUS: 10 PATH DISTANCE: 6
+num Left: 0 num stayed: 2646 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.900000000000006 max stayed: 18.379999999999995median stayed: 14.859999999999985 mean stayed: 13.606092214663644
+
+ERROR RADIUS: 10 PATH DISTANCE: 7
+num Left: 0 num stayed: 6110 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.25 max stayed: 20.639999999999986median stayed: 14.300000000000011 mean stayed: 15.548011456628512
+
+ERROR RADIUS: 10 PATH DISTANCE: 8
+num Left: 0 num stayed: 584 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 3.6000000000000014 max stayed: 20.289999999999992median stayed: 20.150000000000006 mean stayed: 17.42164383561644
+
+ERROR RADIUS: 10 PATH DISTANCE: 9
+num Left: 0 num stayed: 504 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.900000000000006 max stayed: 21.85median stayed: 17.400000000000006 mean stayed: 16.882123015873013
+
+ERROR RADIUS: 10 PATH DISTANCE: 10
+num Left: 0 num stayed: 650 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.849999999999994 max stayed: 21.85median stayed: 14.599999999999994 mean stayed: 17.939584615384625
+
+ERROR RADIUS: 10.25 PATH DISTANCE: 0
+num Left: 0 num stayed: 319 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.04999999999999716 max stayed: 8.129999999999999median stayed: 7.399999999999999 mean stayed: 5.0737304075235095
+
+ERROR RADIUS: 10.25 PATH DISTANCE: 1
+num Left: 0 num stayed: 1845 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.4199999999999946 max stayed: 9.959999999999999median stayed: 5.090000000000003 mean stayed: 6.629897018970178
+
+ERROR RADIUS: 10.25 PATH DISTANCE: 2
+num Left: 0 num stayed: 2960 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 1.1899999999999977 max stayed: 13.18median stayed: 8.149999999999991 mean stayed: 8.28648986486485
+
+ERROR RADIUS: 10.25 PATH DISTANCE: 3
+num Left: 0 num stayed: 4202 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 2.799999999999983 max stayed: 15.049999999999997median stayed: 7.469999999999999 mean stayed: 10.2743907663017
+
+ERROR RADIUS: 10.25 PATH DISTANCE: 4
+num Left: 0 num stayed: 615 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.300000000000011 max stayed: 16.97median stayed: 11.5 mean stayed: 12.005756097560987
+
+ERROR RADIUS: 10.25 PATH DISTANCE: 5
+num Left: 0 num stayed: 1294 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.719999999999999 max stayed: 18.229999999999997median stayed: 16.049999999999997 mean stayed: 13.023284389489941
+
+ERROR RADIUS: 10.25 PATH DISTANCE: 6
+num Left: 0 num stayed: 2646 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.900000000000006 max stayed: 18.379999999999995median stayed: 14.859999999999985 mean stayed: 13.606092214663644
+
+ERROR RADIUS: 10.25 PATH DISTANCE: 7
+num Left: 0 num stayed: 6110 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.25 max stayed: 20.639999999999986median stayed: 14.300000000000011 mean stayed: 15.548011456628512
+
+ERROR RADIUS: 10.25 PATH DISTANCE: 8
+num Left: 0 num stayed: 584 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 3.6000000000000014 max stayed: 20.289999999999992median stayed: 20.150000000000006 mean stayed: 17.42164383561644
+
+ERROR RADIUS: 10.25 PATH DISTANCE: 9
+num Left: 0 num stayed: 504 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.900000000000006 max stayed: 21.85median stayed: 17.400000000000006 mean stayed: 16.882123015873013
+
+ERROR RADIUS: 10.25 PATH DISTANCE: 10
+num Left: 0 num stayed: 650 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.849999999999994 max stayed: 21.85median stayed: 14.599999999999994 mean stayed: 17.939584615384625
+
+ERROR RADIUS: 10.5 PATH DISTANCE: 0
+num Left: 0 num stayed: 319 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.04999999999999716 max stayed: 8.129999999999999median stayed: 7.399999999999999 mean stayed: 5.0737304075235095
+
+ERROR RADIUS: 10.5 PATH DISTANCE: 1
+num Left: 0 num stayed: 1845 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.4199999999999946 max stayed: 9.959999999999999median stayed: 5.090000000000003 mean stayed: 6.629897018970178
+
+ERROR RADIUS: 10.5 PATH DISTANCE: 2
+num Left: 0 num stayed: 2960 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 1.1899999999999977 max stayed: 13.18median stayed: 8.149999999999991 mean stayed: 8.28648986486485
+
+ERROR RADIUS: 10.5 PATH DISTANCE: 3
+num Left: 0 num stayed: 4202 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 2.799999999999983 max stayed: 15.049999999999997median stayed: 7.469999999999999 mean stayed: 10.2743907663017
+
+ERROR RADIUS: 10.5 PATH DISTANCE: 4
+num Left: 0 num stayed: 615 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.300000000000011 max stayed: 16.97median stayed: 11.5 mean stayed: 12.005756097560987
+
+ERROR RADIUS: 10.5 PATH DISTANCE: 5
+num Left: 0 num stayed: 1294 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.719999999999999 max stayed: 18.229999999999997median stayed: 16.049999999999997 mean stayed: 13.023284389489941
+
+ERROR RADIUS: 10.5 PATH DISTANCE: 6
+num Left: 0 num stayed: 2646 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.900000000000006 max stayed: 18.379999999999995median stayed: 14.859999999999985 mean stayed: 13.606092214663644
+
+ERROR RADIUS: 10.5 PATH DISTANCE: 7
+num Left: 0 num stayed: 6110 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.25 max stayed: 20.639999999999986median stayed: 14.300000000000011 mean stayed: 15.548011456628512
+
+ERROR RADIUS: 10.5 PATH DISTANCE: 8
+num Left: 0 num stayed: 584 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 3.6000000000000014 max stayed: 20.289999999999992median stayed: 20.150000000000006 mean stayed: 17.42164383561644
+
+ERROR RADIUS: 10.5 PATH DISTANCE: 9
+num Left: 0 num stayed: 504 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.900000000000006 max stayed: 21.85median stayed: 17.400000000000006 mean stayed: 16.882123015873013
+
+ERROR RADIUS: 10.5 PATH DISTANCE: 10
+num Left: 0 num stayed: 650 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.849999999999994 max stayed: 21.85median stayed: 14.599999999999994 mean stayed: 17.939584615384625
+
+ERROR RADIUS: 10.75 PATH DISTANCE: 0
+num Left: 0 num stayed: 319 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.04999999999999716 max stayed: 8.129999999999999median stayed: 7.399999999999999 mean stayed: 5.0737304075235095
+
+ERROR RADIUS: 10.75 PATH DISTANCE: 1
+num Left: 0 num stayed: 1845 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.4199999999999946 max stayed: 9.959999999999999median stayed: 5.090000000000003 mean stayed: 6.629897018970178
+
+ERROR RADIUS: 10.75 PATH DISTANCE: 2
+num Left: 0 num stayed: 2960 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 1.1899999999999977 max stayed: 13.18median stayed: 8.149999999999991 mean stayed: 8.28648986486485
+
+ERROR RADIUS: 10.75 PATH DISTANCE: 3
+num Left: 0 num stayed: 4202 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 2.799999999999983 max stayed: 15.049999999999997median stayed: 7.469999999999999 mean stayed: 10.2743907663017
+
+ERROR RADIUS: 10.75 PATH DISTANCE: 4
+num Left: 0 num stayed: 615 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.300000000000011 max stayed: 16.97median stayed: 11.5 mean stayed: 12.005756097560987
+
+ERROR RADIUS: 10.75 PATH DISTANCE: 5
+num Left: 0 num stayed: 1294 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.719999999999999 max stayed: 18.229999999999997median stayed: 16.049999999999997 mean stayed: 13.023284389489941
+
+ERROR RADIUS: 10.75 PATH DISTANCE: 6
+num Left: 0 num stayed: 2646 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.900000000000006 max stayed: 18.379999999999995median stayed: 14.859999999999985 mean stayed: 13.606092214663644
+
+ERROR RADIUS: 10.75 PATH DISTANCE: 7
+num Left: 0 num stayed: 6110 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.25 max stayed: 20.639999999999986median stayed: 14.300000000000011 mean stayed: 15.548011456628512
+
+ERROR RADIUS: 10.75 PATH DISTANCE: 8
+num Left: 0 num stayed: 584 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 3.6000000000000014 max stayed: 20.289999999999992median stayed: 20.150000000000006 mean stayed: 17.42164383561644
+
+ERROR RADIUS: 10.75 PATH DISTANCE: 9
+num Left: 0 num stayed: 504 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.900000000000006 max stayed: 21.85median stayed: 17.400000000000006 mean stayed: 16.882123015873013
+
+ERROR RADIUS: 10.75 PATH DISTANCE: 10
+num Left: 0 num stayed: 650 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.849999999999994 max stayed: 21.85median stayed: 14.599999999999994 mean stayed: 17.939584615384625
+
+ERROR RADIUS: 11 PATH DISTANCE: 0
+num Left: 0 num stayed: 319 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.04999999999999716 max stayed: 8.129999999999999median stayed: 7.399999999999999 mean stayed: 5.0737304075235095
+
+ERROR RADIUS: 11 PATH DISTANCE: 1
+num Left: 0 num stayed: 1845 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.4199999999999946 max stayed: 9.959999999999999median stayed: 5.090000000000003 mean stayed: 6.629897018970178
+
+ERROR RADIUS: 11 PATH DISTANCE: 2
+num Left: 0 num stayed: 2960 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 1.1899999999999977 max stayed: 13.18median stayed: 8.149999999999991 mean stayed: 8.28648986486485
+
+ERROR RADIUS: 11 PATH DISTANCE: 3
+num Left: 0 num stayed: 4202 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 2.799999999999983 max stayed: 15.049999999999997median stayed: 7.469999999999999 mean stayed: 10.2743907663017
+
+ERROR RADIUS: 11 PATH DISTANCE: 4
+num Left: 0 num stayed: 615 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.300000000000011 max stayed: 16.97median stayed: 11.5 mean stayed: 12.005756097560987
+
+ERROR RADIUS: 11 PATH DISTANCE: 5
+num Left: 0 num stayed: 1294 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.719999999999999 max stayed: 18.229999999999997median stayed: 16.049999999999997 mean stayed: 13.023284389489941
+
+ERROR RADIUS: 11 PATH DISTANCE: 6
+num Left: 0 num stayed: 2646 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.900000000000006 max stayed: 18.379999999999995median stayed: 14.859999999999985 mean stayed: 13.606092214663644
+
+ERROR RADIUS: 11 PATH DISTANCE: 7
+num Left: 0 num stayed: 6110 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.25 max stayed: 20.639999999999986median stayed: 14.300000000000011 mean stayed: 15.548011456628512
+
+ERROR RADIUS: 11 PATH DISTANCE: 8
+num Left: 0 num stayed: 584 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 3.6000000000000014 max stayed: 20.289999999999992median stayed: 20.150000000000006 mean stayed: 17.42164383561644
+
+ERROR RADIUS: 11 PATH DISTANCE: 9
+num Left: 0 num stayed: 504 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.900000000000006 max stayed: 21.85median stayed: 17.400000000000006 mean stayed: 16.882123015873013
+
+ERROR RADIUS: 11 PATH DISTANCE: 10
+num Left: 0 num stayed: 650 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.849999999999994 max stayed: 21.85median stayed: 14.599999999999994 mean stayed: 17.939584615384625
+
+ERROR RADIUS: 11.25 PATH DISTANCE: 0
+num Left: 0 num stayed: 319 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.04999999999999716 max stayed: 8.129999999999999median stayed: 7.399999999999999 mean stayed: 5.0737304075235095
+
+ERROR RADIUS: 11.25 PATH DISTANCE: 1
+num Left: 0 num stayed: 1845 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.4199999999999946 max stayed: 9.959999999999999median stayed: 5.090000000000003 mean stayed: 6.629897018970178
+
+ERROR RADIUS: 11.25 PATH DISTANCE: 2
+num Left: 0 num stayed: 2960 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 1.1899999999999977 max stayed: 13.18median stayed: 8.149999999999991 mean stayed: 8.28648986486485
+
+ERROR RADIUS: 11.25 PATH DISTANCE: 3
+num Left: 0 num stayed: 4202 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 2.799999999999983 max stayed: 15.049999999999997median stayed: 7.469999999999999 mean stayed: 10.2743907663017
+
+ERROR RADIUS: 11.25 PATH DISTANCE: 4
+num Left: 0 num stayed: 615 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.300000000000011 max stayed: 16.97median stayed: 11.5 mean stayed: 12.005756097560987
+
+ERROR RADIUS: 11.25 PATH DISTANCE: 5
+num Left: 0 num stayed: 1294 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.719999999999999 max stayed: 18.229999999999997median stayed: 16.049999999999997 mean stayed: 13.023284389489941
+
+ERROR RADIUS: 11.25 PATH DISTANCE: 6
+num Left: 0 num stayed: 2646 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.900000000000006 max stayed: 18.379999999999995median stayed: 14.859999999999985 mean stayed: 13.606092214663644
+
+ERROR RADIUS: 11.25 PATH DISTANCE: 7
+num Left: 0 num stayed: 6110 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.25 max stayed: 20.639999999999986median stayed: 14.300000000000011 mean stayed: 15.548011456628512
+
+ERROR RADIUS: 11.25 PATH DISTANCE: 8
+num Left: 0 num stayed: 584 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 3.6000000000000014 max stayed: 20.289999999999992median stayed: 20.150000000000006 mean stayed: 17.42164383561644
+
+ERROR RADIUS: 11.25 PATH DISTANCE: 9
+num Left: 0 num stayed: 504 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.900000000000006 max stayed: 21.85median stayed: 17.400000000000006 mean stayed: 16.882123015873013
+
+ERROR RADIUS: 11.25 PATH DISTANCE: 10
+num Left: 0 num stayed: 650 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.849999999999994 max stayed: 21.85median stayed: 14.599999999999994 mean stayed: 17.939584615384625
+
+ERROR RADIUS: 11.5 PATH DISTANCE: 0
+num Left: 0 num stayed: 319 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.04999999999999716 max stayed: 8.129999999999999median stayed: 7.399999999999999 mean stayed: 5.0737304075235095
+
+ERROR RADIUS: 11.5 PATH DISTANCE: 1
+num Left: 0 num stayed: 1845 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.4199999999999946 max stayed: 9.959999999999999median stayed: 5.090000000000003 mean stayed: 6.629897018970178
+
+ERROR RADIUS: 11.5 PATH DISTANCE: 2
+num Left: 0 num stayed: 2960 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 1.1899999999999977 max stayed: 13.18median stayed: 8.149999999999991 mean stayed: 8.28648986486485
+
+ERROR RADIUS: 11.5 PATH DISTANCE: 3
+num Left: 0 num stayed: 4202 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 2.799999999999983 max stayed: 15.049999999999997median stayed: 7.469999999999999 mean stayed: 10.2743907663017
+
+ERROR RADIUS: 11.5 PATH DISTANCE: 4
+num Left: 0 num stayed: 615 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.300000000000011 max stayed: 16.97median stayed: 11.5 mean stayed: 12.005756097560987
+
+ERROR RADIUS: 11.5 PATH DISTANCE: 5
+num Left: 0 num stayed: 1294 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.719999999999999 max stayed: 18.229999999999997median stayed: 16.049999999999997 mean stayed: 13.023284389489941
+
+ERROR RADIUS: 11.5 PATH DISTANCE: 6
+num Left: 0 num stayed: 2646 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.900000000000006 max stayed: 18.379999999999995median stayed: 14.859999999999985 mean stayed: 13.606092214663644
+
+ERROR RADIUS: 11.5 PATH DISTANCE: 7
+num Left: 0 num stayed: 6110 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.25 max stayed: 20.639999999999986median stayed: 14.300000000000011 mean stayed: 15.548011456628512
+
+ERROR RADIUS: 11.5 PATH DISTANCE: 8
+num Left: 0 num stayed: 584 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 3.6000000000000014 max stayed: 20.289999999999992median stayed: 20.150000000000006 mean stayed: 17.42164383561644
+
+ERROR RADIUS: 11.5 PATH DISTANCE: 9
+num Left: 0 num stayed: 504 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.900000000000006 max stayed: 21.85median stayed: 17.400000000000006 mean stayed: 16.882123015873013
+
+ERROR RADIUS: 11.5 PATH DISTANCE: 10
+num Left: 0 num stayed: 650 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.849999999999994 max stayed: 21.85median stayed: 14.599999999999994 mean stayed: 17.939584615384625
+
+ERROR RADIUS: 11.75 PATH DISTANCE: 0
+num Left: 0 num stayed: 319 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.04999999999999716 max stayed: 8.129999999999999median stayed: 7.399999999999999 mean stayed: 5.0737304075235095
+
+ERROR RADIUS: 11.75 PATH DISTANCE: 1
+num Left: 0 num stayed: 1845 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.4199999999999946 max stayed: 9.959999999999999median stayed: 5.090000000000003 mean stayed: 6.629897018970178
+
+ERROR RADIUS: 11.75 PATH DISTANCE: 2
+num Left: 0 num stayed: 2960 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 1.1899999999999977 max stayed: 13.18median stayed: 8.149999999999991 mean stayed: 8.28648986486485
+
+ERROR RADIUS: 11.75 PATH DISTANCE: 3
+num Left: 0 num stayed: 4202 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 2.799999999999983 max stayed: 15.049999999999997median stayed: 7.469999999999999 mean stayed: 10.2743907663017
+
+ERROR RADIUS: 11.75 PATH DISTANCE: 4
+num Left: 0 num stayed: 615 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.300000000000011 max stayed: 16.97median stayed: 11.5 mean stayed: 12.005756097560987
+
+ERROR RADIUS: 11.75 PATH DISTANCE: 5
+num Left: 0 num stayed: 1294 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.719999999999999 max stayed: 18.229999999999997median stayed: 16.049999999999997 mean stayed: 13.023284389489941
+
+ERROR RADIUS: 11.75 PATH DISTANCE: 6
+num Left: 0 num stayed: 2646 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.900000000000006 max stayed: 18.379999999999995median stayed: 14.859999999999985 mean stayed: 13.606092214663644
+
+ERROR RADIUS: 11.75 PATH DISTANCE: 7
+num Left: 0 num stayed: 6110 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.25 max stayed: 20.639999999999986median stayed: 14.300000000000011 mean stayed: 15.548011456628512
+
+ERROR RADIUS: 11.75 PATH DISTANCE: 8
+num Left: 0 num stayed: 584 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 3.6000000000000014 max stayed: 20.289999999999992median stayed: 20.150000000000006 mean stayed: 17.42164383561644
+
+ERROR RADIUS: 11.75 PATH DISTANCE: 9
+num Left: 0 num stayed: 504 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.900000000000006 max stayed: 21.85median stayed: 17.400000000000006 mean stayed: 16.882123015873013
+
+ERROR RADIUS: 11.75 PATH DISTANCE: 10
+num Left: 0 num stayed: 650 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.849999999999994 max stayed: 21.85median stayed: 14.599999999999994 mean stayed: 17.939584615384625
+
+ERROR RADIUS: 12 PATH DISTANCE: 0
+num Left: 0 num stayed: 319 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.04999999999999716 max stayed: 8.129999999999999median stayed: 7.399999999999999 mean stayed: 5.0737304075235095
+
+ERROR RADIUS: 12 PATH DISTANCE: 1
+num Left: 0 num stayed: 1845 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.4199999999999946 max stayed: 9.959999999999999median stayed: 5.090000000000003 mean stayed: 6.629897018970178
+
+ERROR RADIUS: 12 PATH DISTANCE: 2
+num Left: 0 num stayed: 2960 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 1.1899999999999977 max stayed: 13.18median stayed: 8.149999999999991 mean stayed: 8.28648986486485
+
+ERROR RADIUS: 12 PATH DISTANCE: 3
+num Left: 0 num stayed: 4202 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 2.799999999999983 max stayed: 15.049999999999997median stayed: 7.469999999999999 mean stayed: 10.2743907663017
+
+ERROR RADIUS: 12 PATH DISTANCE: 4
+num Left: 0 num stayed: 615 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.300000000000011 max stayed: 16.97median stayed: 11.5 mean stayed: 12.005756097560987
+
+ERROR RADIUS: 12 PATH DISTANCE: 5
+num Left: 0 num stayed: 1294 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.719999999999999 max stayed: 18.229999999999997median stayed: 16.049999999999997 mean stayed: 13.023284389489941
+
+ERROR RADIUS: 12 PATH DISTANCE: 6
+num Left: 0 num stayed: 2646 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.900000000000006 max stayed: 18.379999999999995median stayed: 14.859999999999985 mean stayed: 13.606092214663644
+
+ERROR RADIUS: 12 PATH DISTANCE: 7
+num Left: 0 num stayed: 6110 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.25 max stayed: 20.639999999999986median stayed: 14.300000000000011 mean stayed: 15.548011456628512
+
+ERROR RADIUS: 12 PATH DISTANCE: 8
+num Left: 0 num stayed: 584 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 3.6000000000000014 max stayed: 20.289999999999992median stayed: 20.150000000000006 mean stayed: 17.42164383561644
+
+ERROR RADIUS: 12 PATH DISTANCE: 9
+num Left: 0 num stayed: 504 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.900000000000006 max stayed: 21.85median stayed: 17.400000000000006 mean stayed: 16.882123015873013
+
+ERROR RADIUS: 12 PATH DISTANCE: 10
+num Left: 0 num stayed: 650 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.849999999999994 max stayed: 21.85median stayed: 14.599999999999994 mean stayed: 17.939584615384625
+
+ERROR RADIUS: 12.25 PATH DISTANCE: 0
+num Left: 0 num stayed: 319 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.04999999999999716 max stayed: 8.129999999999999median stayed: 7.399999999999999 mean stayed: 5.0737304075235095
+
+ERROR RADIUS: 12.25 PATH DISTANCE: 1
+num Left: 0 num stayed: 1845 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.4199999999999946 max stayed: 9.959999999999999median stayed: 5.090000000000003 mean stayed: 6.629897018970178
+
+ERROR RADIUS: 12.25 PATH DISTANCE: 2
+num Left: 0 num stayed: 2960 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 1.1899999999999977 max stayed: 13.18median stayed: 8.149999999999991 mean stayed: 8.28648986486485
+
+ERROR RADIUS: 12.25 PATH DISTANCE: 3
+num Left: 0 num stayed: 4202 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 2.799999999999983 max stayed: 15.049999999999997median stayed: 7.469999999999999 mean stayed: 10.2743907663017
+
+ERROR RADIUS: 12.25 PATH DISTANCE: 4
+num Left: 0 num stayed: 615 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.300000000000011 max stayed: 16.97median stayed: 11.5 mean stayed: 12.005756097560987
+
+ERROR RADIUS: 12.25 PATH DISTANCE: 5
+num Left: 0 num stayed: 1294 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.719999999999999 max stayed: 18.229999999999997median stayed: 16.049999999999997 mean stayed: 13.023284389489941
+
+ERROR RADIUS: 12.25 PATH DISTANCE: 6
+num Left: 0 num stayed: 2646 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.900000000000006 max stayed: 18.379999999999995median stayed: 14.859999999999985 mean stayed: 13.606092214663644
+
+ERROR RADIUS: 12.25 PATH DISTANCE: 7
+num Left: 0 num stayed: 6110 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.25 max stayed: 20.639999999999986median stayed: 14.300000000000011 mean stayed: 15.548011456628512
+
+ERROR RADIUS: 12.25 PATH DISTANCE: 8
+num Left: 0 num stayed: 584 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 3.6000000000000014 max stayed: 20.289999999999992median stayed: 20.150000000000006 mean stayed: 17.42164383561644
+
+ERROR RADIUS: 12.25 PATH DISTANCE: 9
+num Left: 0 num stayed: 504 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.900000000000006 max stayed: 21.85median stayed: 17.400000000000006 mean stayed: 16.882123015873013
+
+ERROR RADIUS: 12.25 PATH DISTANCE: 10
+num Left: 0 num stayed: 650 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.849999999999994 max stayed: 21.85median stayed: 14.599999999999994 mean stayed: 17.939584615384625
+
+ERROR RADIUS: 12.5 PATH DISTANCE: 0
+num Left: 0 num stayed: 319 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.04999999999999716 max stayed: 8.129999999999999median stayed: 7.399999999999999 mean stayed: 5.0737304075235095
+
+ERROR RADIUS: 12.5 PATH DISTANCE: 1
+num Left: 0 num stayed: 1845 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.4199999999999946 max stayed: 9.959999999999999median stayed: 5.090000000000003 mean stayed: 6.629897018970178
+
+ERROR RADIUS: 12.5 PATH DISTANCE: 2
+num Left: 0 num stayed: 2960 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 1.1899999999999977 max stayed: 13.18median stayed: 8.149999999999991 mean stayed: 8.28648986486485
+
+ERROR RADIUS: 12.5 PATH DISTANCE: 3
+num Left: 0 num stayed: 4202 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 2.799999999999983 max stayed: 15.049999999999997median stayed: 7.469999999999999 mean stayed: 10.2743907663017
+
+ERROR RADIUS: 12.5 PATH DISTANCE: 4
+num Left: 0 num stayed: 615 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.300000000000011 max stayed: 16.97median stayed: 11.5 mean stayed: 12.005756097560987
+
+ERROR RADIUS: 12.5 PATH DISTANCE: 5
+num Left: 0 num stayed: 1294 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.719999999999999 max stayed: 18.229999999999997median stayed: 16.049999999999997 mean stayed: 13.023284389489941
+
+ERROR RADIUS: 12.5 PATH DISTANCE: 6
+num Left: 0 num stayed: 2646 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.900000000000006 max stayed: 18.379999999999995median stayed: 14.859999999999985 mean stayed: 13.606092214663644
+
+ERROR RADIUS: 12.5 PATH DISTANCE: 7
+num Left: 0 num stayed: 6110 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.25 max stayed: 20.639999999999986median stayed: 14.300000000000011 mean stayed: 15.548011456628512
+
+ERROR RADIUS: 12.5 PATH DISTANCE: 8
+num Left: 0 num stayed: 584 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 3.6000000000000014 max stayed: 20.289999999999992median stayed: 20.150000000000006 mean stayed: 17.42164383561644
+
+ERROR RADIUS: 12.5 PATH DISTANCE: 9
+num Left: 0 num stayed: 504 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.900000000000006 max stayed: 21.85median stayed: 17.400000000000006 mean stayed: 16.882123015873013
+
+ERROR RADIUS: 12.5 PATH DISTANCE: 10
+num Left: 0 num stayed: 650 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.849999999999994 max stayed: 21.85median stayed: 14.599999999999994 mean stayed: 17.939584615384625
+
+ERROR RADIUS: 12.75 PATH DISTANCE: 0
+num Left: 0 num stayed: 319 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.04999999999999716 max stayed: 8.129999999999999median stayed: 7.399999999999999 mean stayed: 5.0737304075235095
+
+ERROR RADIUS: 12.75 PATH DISTANCE: 1
+num Left: 0 num stayed: 1845 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.4199999999999946 max stayed: 9.959999999999999median stayed: 5.090000000000003 mean stayed: 6.629897018970178
+
+ERROR RADIUS: 12.75 PATH DISTANCE: 2
+num Left: 0 num stayed: 2960 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 1.1899999999999977 max stayed: 13.18median stayed: 8.149999999999991 mean stayed: 8.28648986486485
+
+ERROR RADIUS: 12.75 PATH DISTANCE: 3
+num Left: 0 num stayed: 4202 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 2.799999999999983 max stayed: 15.049999999999997median stayed: 7.469999999999999 mean stayed: 10.2743907663017
+
+ERROR RADIUS: 12.75 PATH DISTANCE: 4
+num Left: 0 num stayed: 615 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.300000000000011 max stayed: 16.97median stayed: 11.5 mean stayed: 12.005756097560987
+
+ERROR RADIUS: 12.75 PATH DISTANCE: 5
+num Left: 0 num stayed: 1294 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.719999999999999 max stayed: 18.229999999999997median stayed: 16.049999999999997 mean stayed: 13.023284389489941
+
+ERROR RADIUS: 12.75 PATH DISTANCE: 6
+num Left: 0 num stayed: 2646 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.900000000000006 max stayed: 18.379999999999995median stayed: 14.859999999999985 mean stayed: 13.606092214663644
+
+ERROR RADIUS: 12.75 PATH DISTANCE: 7
+num Left: 0 num stayed: 6110 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.25 max stayed: 20.639999999999986median stayed: 14.300000000000011 mean stayed: 15.548011456628512
+
+ERROR RADIUS: 12.75 PATH DISTANCE: 8
+num Left: 0 num stayed: 584 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 3.6000000000000014 max stayed: 20.289999999999992median stayed: 20.150000000000006 mean stayed: 17.42164383561644
+
+ERROR RADIUS: 12.75 PATH DISTANCE: 9
+num Left: 0 num stayed: 504 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.900000000000006 max stayed: 21.85median stayed: 17.400000000000006 mean stayed: 16.882123015873013
+
+ERROR RADIUS: 12.75 PATH DISTANCE: 10
+num Left: 0 num stayed: 650 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.849999999999994 max stayed: 21.85median stayed: 14.599999999999994 mean stayed: 17.939584615384625
+
+ERROR RADIUS: 13 PATH DISTANCE: 0
+num Left: 0 num stayed: 319 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.04999999999999716 max stayed: 8.129999999999999median stayed: 7.399999999999999 mean stayed: 5.0737304075235095
+
+ERROR RADIUS: 13 PATH DISTANCE: 1
+num Left: 0 num stayed: 1845 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.4199999999999946 max stayed: 9.959999999999999median stayed: 5.090000000000003 mean stayed: 6.629897018970178
+
+ERROR RADIUS: 13 PATH DISTANCE: 2
+num Left: 0 num stayed: 2960 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 1.1899999999999977 max stayed: 13.18median stayed: 8.149999999999991 mean stayed: 8.28648986486485
+
+ERROR RADIUS: 13 PATH DISTANCE: 3
+num Left: 0 num stayed: 4202 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 2.799999999999983 max stayed: 15.049999999999997median stayed: 7.469999999999999 mean stayed: 10.2743907663017
+
+ERROR RADIUS: 13 PATH DISTANCE: 4
+num Left: 0 num stayed: 615 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.300000000000011 max stayed: 16.97median stayed: 11.5 mean stayed: 12.005756097560987
+
+ERROR RADIUS: 13 PATH DISTANCE: 5
+num Left: 0 num stayed: 1294 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.719999999999999 max stayed: 18.229999999999997median stayed: 16.049999999999997 mean stayed: 13.023284389489941
+
+ERROR RADIUS: 13 PATH DISTANCE: 6
+num Left: 0 num stayed: 2646 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.900000000000006 max stayed: 18.379999999999995median stayed: 14.859999999999985 mean stayed: 13.606092214663644
+
+ERROR RADIUS: 13 PATH DISTANCE: 7
+num Left: 0 num stayed: 6110 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.25 max stayed: 20.639999999999986median stayed: 14.300000000000011 mean stayed: 15.548011456628512
+
+ERROR RADIUS: 13 PATH DISTANCE: 8
+num Left: 0 num stayed: 584 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 3.6000000000000014 max stayed: 20.289999999999992median stayed: 20.150000000000006 mean stayed: 17.42164383561644
+
+ERROR RADIUS: 13 PATH DISTANCE: 9
+num Left: 0 num stayed: 504 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.900000000000006 max stayed: 21.85median stayed: 17.400000000000006 mean stayed: 16.882123015873013
+
+ERROR RADIUS: 13 PATH DISTANCE: 10
+num Left: 0 num stayed: 650 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.849999999999994 max stayed: 21.85median stayed: 14.599999999999994 mean stayed: 17.939584615384625
+
+ERROR RADIUS: 13.25 PATH DISTANCE: 0
+num Left: 0 num stayed: 319 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.04999999999999716 max stayed: 8.129999999999999median stayed: 7.399999999999999 mean stayed: 5.0737304075235095
+
+ERROR RADIUS: 13.25 PATH DISTANCE: 1
+num Left: 0 num stayed: 1845 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.4199999999999946 max stayed: 9.959999999999999median stayed: 5.090000000000003 mean stayed: 6.629897018970178
+
+ERROR RADIUS: 13.25 PATH DISTANCE: 2
+num Left: 0 num stayed: 2960 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 1.1899999999999977 max stayed: 13.18median stayed: 8.149999999999991 mean stayed: 8.28648986486485
+
+ERROR RADIUS: 13.25 PATH DISTANCE: 3
+num Left: 0 num stayed: 4202 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 2.799999999999983 max stayed: 15.049999999999997median stayed: 7.469999999999999 mean stayed: 10.2743907663017
+
+ERROR RADIUS: 13.25 PATH DISTANCE: 4
+num Left: 0 num stayed: 615 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.300000000000011 max stayed: 16.97median stayed: 11.5 mean stayed: 12.005756097560987
+
+ERROR RADIUS: 13.25 PATH DISTANCE: 5
+num Left: 0 num stayed: 1294 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.719999999999999 max stayed: 18.229999999999997median stayed: 16.049999999999997 mean stayed: 13.023284389489941
+
+ERROR RADIUS: 13.25 PATH DISTANCE: 6
+num Left: 0 num stayed: 2646 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.900000000000006 max stayed: 18.379999999999995median stayed: 14.859999999999985 mean stayed: 13.606092214663644
+
+ERROR RADIUS: 13.25 PATH DISTANCE: 7
+num Left: 0 num stayed: 6110 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.25 max stayed: 20.639999999999986median stayed: 14.300000000000011 mean stayed: 15.548011456628512
+
+ERROR RADIUS: 13.25 PATH DISTANCE: 8
+num Left: 0 num stayed: 584 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 3.6000000000000014 max stayed: 20.289999999999992median stayed: 20.150000000000006 mean stayed: 17.42164383561644
+
+ERROR RADIUS: 13.25 PATH DISTANCE: 9
+num Left: 0 num stayed: 504 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.900000000000006 max stayed: 21.85median stayed: 17.400000000000006 mean stayed: 16.882123015873013
+
+ERROR RADIUS: 13.25 PATH DISTANCE: 10
+num Left: 0 num stayed: 650 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.849999999999994 max stayed: 21.85median stayed: 14.599999999999994 mean stayed: 17.939584615384625
+
+ERROR RADIUS: 13.5 PATH DISTANCE: 0
+num Left: 0 num stayed: 319 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.04999999999999716 max stayed: 8.129999999999999median stayed: 7.399999999999999 mean stayed: 5.0737304075235095
+
+ERROR RADIUS: 13.5 PATH DISTANCE: 1
+num Left: 0 num stayed: 1845 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.4199999999999946 max stayed: 9.959999999999999median stayed: 5.090000000000003 mean stayed: 6.629897018970178
+
+ERROR RADIUS: 13.5 PATH DISTANCE: 2
+num Left: 0 num stayed: 2960 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 1.1899999999999977 max stayed: 13.18median stayed: 8.149999999999991 mean stayed: 8.28648986486485
+
+ERROR RADIUS: 13.5 PATH DISTANCE: 3
+num Left: 0 num stayed: 4202 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 2.799999999999983 max stayed: 15.049999999999997median stayed: 7.469999999999999 mean stayed: 10.2743907663017
+
+ERROR RADIUS: 13.5 PATH DISTANCE: 4
+num Left: 0 num stayed: 615 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.300000000000011 max stayed: 16.97median stayed: 11.5 mean stayed: 12.005756097560987
+
+ERROR RADIUS: 13.5 PATH DISTANCE: 5
+num Left: 0 num stayed: 1294 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.719999999999999 max stayed: 18.229999999999997median stayed: 16.049999999999997 mean stayed: 13.023284389489941
+
+ERROR RADIUS: 13.5 PATH DISTANCE: 6
+num Left: 0 num stayed: 2646 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.900000000000006 max stayed: 18.379999999999995median stayed: 14.859999999999985 mean stayed: 13.606092214663644
+
+ERROR RADIUS: 13.5 PATH DISTANCE: 7
+num Left: 0 num stayed: 6110 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.25 max stayed: 20.639999999999986median stayed: 14.300000000000011 mean stayed: 15.548011456628512
+
+ERROR RADIUS: 13.5 PATH DISTANCE: 8
+num Left: 0 num stayed: 584 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 3.6000000000000014 max stayed: 20.289999999999992median stayed: 20.150000000000006 mean stayed: 17.42164383561644
+
+ERROR RADIUS: 13.5 PATH DISTANCE: 9
+num Left: 0 num stayed: 504 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.900000000000006 max stayed: 21.85median stayed: 17.400000000000006 mean stayed: 16.882123015873013
+
+ERROR RADIUS: 13.5 PATH DISTANCE: 10
+num Left: 0 num stayed: 650 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.849999999999994 max stayed: 21.85median stayed: 14.599999999999994 mean stayed: 17.939584615384625
+
+ERROR RADIUS: 13.75 PATH DISTANCE: 0
+num Left: 0 num stayed: 319 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.04999999999999716 max stayed: 8.129999999999999median stayed: 7.399999999999999 mean stayed: 5.0737304075235095
+
+ERROR RADIUS: 13.75 PATH DISTANCE: 1
+num Left: 0 num stayed: 1845 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.4199999999999946 max stayed: 9.959999999999999median stayed: 5.090000000000003 mean stayed: 6.629897018970178
+
+ERROR RADIUS: 13.75 PATH DISTANCE: 2
+num Left: 0 num stayed: 2960 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 1.1899999999999977 max stayed: 13.18median stayed: 8.149999999999991 mean stayed: 8.28648986486485
+
+ERROR RADIUS: 13.75 PATH DISTANCE: 3
+num Left: 0 num stayed: 4202 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 2.799999999999983 max stayed: 15.049999999999997median stayed: 7.469999999999999 mean stayed: 10.2743907663017
+
+ERROR RADIUS: 13.75 PATH DISTANCE: 4
+num Left: 0 num stayed: 615 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.300000000000011 max stayed: 16.97median stayed: 11.5 mean stayed: 12.005756097560987
+
+ERROR RADIUS: 13.75 PATH DISTANCE: 5
+num Left: 0 num stayed: 1294 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.719999999999999 max stayed: 18.229999999999997median stayed: 16.049999999999997 mean stayed: 13.023284389489941
+
+ERROR RADIUS: 13.75 PATH DISTANCE: 6
+num Left: 0 num stayed: 2646 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.900000000000006 max stayed: 18.379999999999995median stayed: 14.859999999999985 mean stayed: 13.606092214663644
+
+ERROR RADIUS: 13.75 PATH DISTANCE: 7
+num Left: 0 num stayed: 6110 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.25 max stayed: 20.639999999999986median stayed: 14.300000000000011 mean stayed: 15.548011456628512
+
+ERROR RADIUS: 13.75 PATH DISTANCE: 8
+num Left: 0 num stayed: 584 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 3.6000000000000014 max stayed: 20.289999999999992median stayed: 20.150000000000006 mean stayed: 17.42164383561644
+
+ERROR RADIUS: 13.75 PATH DISTANCE: 9
+num Left: 0 num stayed: 504 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.900000000000006 max stayed: 21.85median stayed: 17.400000000000006 mean stayed: 16.882123015873013
+
+ERROR RADIUS: 13.75 PATH DISTANCE: 10
+num Left: 0 num stayed: 650 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.849999999999994 max stayed: 21.85median stayed: 14.599999999999994 mean stayed: 17.939584615384625
+
+ERROR RADIUS: 14 PATH DISTANCE: 0
+num Left: 0 num stayed: 319 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.04999999999999716 max stayed: 8.129999999999999median stayed: 7.399999999999999 mean stayed: 5.0737304075235095
+
+ERROR RADIUS: 14 PATH DISTANCE: 1
+num Left: 0 num stayed: 1845 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.4199999999999946 max stayed: 9.959999999999999median stayed: 5.090000000000003 mean stayed: 6.629897018970178
+
+ERROR RADIUS: 14 PATH DISTANCE: 2
+num Left: 0 num stayed: 2960 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 1.1899999999999977 max stayed: 13.18median stayed: 8.149999999999991 mean stayed: 8.28648986486485
+
+ERROR RADIUS: 14 PATH DISTANCE: 3
+num Left: 0 num stayed: 4202 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 2.799999999999983 max stayed: 15.049999999999997median stayed: 7.469999999999999 mean stayed: 10.2743907663017
+
+ERROR RADIUS: 14 PATH DISTANCE: 4
+num Left: 0 num stayed: 615 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.300000000000011 max stayed: 16.97median stayed: 11.5 mean stayed: 12.005756097560987
+
+ERROR RADIUS: 14 PATH DISTANCE: 5
+num Left: 0 num stayed: 1294 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.719999999999999 max stayed: 18.229999999999997median stayed: 16.049999999999997 mean stayed: 13.023284389489941
+
+ERROR RADIUS: 14 PATH DISTANCE: 6
+num Left: 0 num stayed: 2646 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.900000000000006 max stayed: 18.379999999999995median stayed: 14.859999999999985 mean stayed: 13.606092214663644
+
+ERROR RADIUS: 14 PATH DISTANCE: 7
+num Left: 0 num stayed: 6110 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.25 max stayed: 20.639999999999986median stayed: 14.300000000000011 mean stayed: 15.548011456628512
+
+ERROR RADIUS: 14 PATH DISTANCE: 8
+num Left: 0 num stayed: 584 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 3.6000000000000014 max stayed: 20.289999999999992median stayed: 20.150000000000006 mean stayed: 17.42164383561644
+
+ERROR RADIUS: 14 PATH DISTANCE: 9
+num Left: 0 num stayed: 504 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.900000000000006 max stayed: 21.85median stayed: 17.400000000000006 mean stayed: 16.882123015873013
+
+ERROR RADIUS: 14 PATH DISTANCE: 10
+num Left: 0 num stayed: 650 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.849999999999994 max stayed: 21.85median stayed: 14.599999999999994 mean stayed: 17.939584615384625
+
+ERROR RADIUS: 14.25 PATH DISTANCE: 0
+num Left: 0 num stayed: 319 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.04999999999999716 max stayed: 8.129999999999999median stayed: 7.399999999999999 mean stayed: 5.0737304075235095
+
+ERROR RADIUS: 14.25 PATH DISTANCE: 1
+num Left: 0 num stayed: 1845 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.4199999999999946 max stayed: 9.959999999999999median stayed: 5.090000000000003 mean stayed: 6.629897018970178
+
+ERROR RADIUS: 14.25 PATH DISTANCE: 2
+num Left: 0 num stayed: 2960 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 1.1899999999999977 max stayed: 13.18median stayed: 8.149999999999991 mean stayed: 8.28648986486485
+
+ERROR RADIUS: 14.25 PATH DISTANCE: 3
+num Left: 0 num stayed: 4202 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 2.799999999999983 max stayed: 15.049999999999997median stayed: 7.469999999999999 mean stayed: 10.2743907663017
+
+ERROR RADIUS: 14.25 PATH DISTANCE: 4
+num Left: 0 num stayed: 615 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.300000000000011 max stayed: 16.97median stayed: 11.5 mean stayed: 12.005756097560987
+
+ERROR RADIUS: 14.25 PATH DISTANCE: 5
+num Left: 0 num stayed: 1294 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.719999999999999 max stayed: 18.229999999999997median stayed: 16.049999999999997 mean stayed: 13.023284389489941
+
+ERROR RADIUS: 14.25 PATH DISTANCE: 6
+num Left: 0 num stayed: 2646 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.900000000000006 max stayed: 18.379999999999995median stayed: 14.859999999999985 mean stayed: 13.606092214663644
+
+ERROR RADIUS: 14.25 PATH DISTANCE: 7
+num Left: 0 num stayed: 6110 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.25 max stayed: 20.639999999999986median stayed: 14.300000000000011 mean stayed: 15.548011456628512
+
+ERROR RADIUS: 14.25 PATH DISTANCE: 8
+num Left: 0 num stayed: 584 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 3.6000000000000014 max stayed: 20.289999999999992median stayed: 20.150000000000006 mean stayed: 17.42164383561644
+
+ERROR RADIUS: 14.25 PATH DISTANCE: 9
+num Left: 0 num stayed: 504 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.900000000000006 max stayed: 21.85median stayed: 17.400000000000006 mean stayed: 16.882123015873013
+
+ERROR RADIUS: 14.25 PATH DISTANCE: 10
+num Left: 0 num stayed: 650 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.849999999999994 max stayed: 21.85median stayed: 14.599999999999994 mean stayed: 17.939584615384625
+
+ERROR RADIUS: 14.5 PATH DISTANCE: 0
+num Left: 0 num stayed: 319 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.04999999999999716 max stayed: 8.129999999999999median stayed: 7.399999999999999 mean stayed: 5.0737304075235095
+
+ERROR RADIUS: 14.5 PATH DISTANCE: 1
+num Left: 0 num stayed: 1845 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.4199999999999946 max stayed: 9.959999999999999median stayed: 5.090000000000003 mean stayed: 6.629897018970178
+
+ERROR RADIUS: 14.5 PATH DISTANCE: 2
+num Left: 0 num stayed: 2960 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 1.1899999999999977 max stayed: 13.18median stayed: 8.149999999999991 mean stayed: 8.28648986486485
+
+ERROR RADIUS: 14.5 PATH DISTANCE: 3
+num Left: 0 num stayed: 4202 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 2.799999999999983 max stayed: 15.049999999999997median stayed: 7.469999999999999 mean stayed: 10.2743907663017
+
+ERROR RADIUS: 14.5 PATH DISTANCE: 4
+num Left: 0 num stayed: 615 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.300000000000011 max stayed: 16.97median stayed: 11.5 mean stayed: 12.005756097560987
+
+ERROR RADIUS: 14.5 PATH DISTANCE: 5
+num Left: 0 num stayed: 1294 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.719999999999999 max stayed: 18.229999999999997median stayed: 16.049999999999997 mean stayed: 13.023284389489941
+
+ERROR RADIUS: 14.5 PATH DISTANCE: 6
+num Left: 0 num stayed: 2646 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.900000000000006 max stayed: 18.379999999999995median stayed: 14.859999999999985 mean stayed: 13.606092214663644
+
+ERROR RADIUS: 14.5 PATH DISTANCE: 7
+num Left: 0 num stayed: 6110 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.25 max stayed: 20.639999999999986median stayed: 14.300000000000011 mean stayed: 15.548011456628512
+
+ERROR RADIUS: 14.5 PATH DISTANCE: 8
+num Left: 0 num stayed: 584 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 3.6000000000000014 max stayed: 20.289999999999992median stayed: 20.150000000000006 mean stayed: 17.42164383561644
+
+ERROR RADIUS: 14.5 PATH DISTANCE: 9
+num Left: 0 num stayed: 504 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.900000000000006 max stayed: 21.85median stayed: 17.400000000000006 mean stayed: 16.882123015873013
+
+ERROR RADIUS: 14.5 PATH DISTANCE: 10
+num Left: 0 num stayed: 650 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.849999999999994 max stayed: 21.85median stayed: 14.599999999999994 mean stayed: 17.939584615384625
+
+ERROR RADIUS: 14.75 PATH DISTANCE: 0
+num Left: 0 num stayed: 319 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.04999999999999716 max stayed: 8.129999999999999median stayed: 7.399999999999999 mean stayed: 5.0737304075235095
+
+ERROR RADIUS: 14.75 PATH DISTANCE: 1
+num Left: 0 num stayed: 1845 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 0.4199999999999946 max stayed: 9.959999999999999median stayed: 5.090000000000003 mean stayed: 6.629897018970178
+
+ERROR RADIUS: 14.75 PATH DISTANCE: 2
+num Left: 0 num stayed: 2960 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 1.1899999999999977 max stayed: 13.18median stayed: 8.149999999999991 mean stayed: 8.28648986486485
+
+ERROR RADIUS: 14.75 PATH DISTANCE: 3
+num Left: 0 num stayed: 4202 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 2.799999999999983 max stayed: 15.049999999999997median stayed: 7.469999999999999 mean stayed: 10.2743907663017
+
+ERROR RADIUS: 14.75 PATH DISTANCE: 4
+num Left: 0 num stayed: 615 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.300000000000011 max stayed: 16.97median stayed: 11.5 mean stayed: 12.005756097560987
+
+ERROR RADIUS: 14.75 PATH DISTANCE: 5
+num Left: 0 num stayed: 1294 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.719999999999999 max stayed: 18.229999999999997median stayed: 16.049999999999997 mean stayed: 13.023284389489941
+
+ERROR RADIUS: 14.75 PATH DISTANCE: 6
+num Left: 0 num stayed: 2646 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 4.900000000000006 max stayed: 18.379999999999995median stayed: 14.859999999999985 mean stayed: 13.606092214663644
+
+ERROR RADIUS: 14.75 PATH DISTANCE: 7
+num Left: 0 num stayed: 6110 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.25 max stayed: 20.639999999999986median stayed: 14.300000000000011 mean stayed: 15.548011456628512
+
+ERROR RADIUS: 14.75 PATH DISTANCE: 8
+num Left: 0 num stayed: 584 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 3.6000000000000014 max stayed: 20.289999999999992median stayed: 20.150000000000006 mean stayed: 17.42164383561644
+
+ERROR RADIUS: 14.75 PATH DISTANCE: 9
+num Left: 0 num stayed: 504 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.900000000000006 max stayed: 21.85median stayed: 17.400000000000006 mean stayed: 16.882123015873013
+
+ERROR RADIUS: 14.75 PATH DISTANCE: 10
+num Left: 0 num stayed: 650 percent stayed: 1.0
+min left: 0 max left: 0median left: 0 mean left: 0
+min stayed: 5.849999999999994 max stayed: 21.85median stayed: 14.599999999999994 mean stayed: 17.939584615384625
